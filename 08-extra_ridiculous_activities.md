@@ -68,11 +68,11 @@ The _Engineer_ is RPI's foremost publication on research and development at RPI.
 
 ### [_The Rensselaer Handbook_](https://info.rpi.edu/dean-students/01/21/2022/rensselaer-handbook-student-rights-and-responsibilities)
 
-_The Rensselaer Handbook_ is the Administration's attempt to prepare incoming students for life at RPI. Primarily an adminstrative rulebook, the student handbook does have some useful sections on adult life for the incoming freshmen-types. Unfortunately, the information about life external to RPI is very lacking, when not utterly inaccurate.
+_The Rensselaer Handbook_ is the Administration's attempt to prepare incoming students for life at RPI. Primarily an administrative rule book, the student handbook does have some useful sections on adult life for the incoming freshmen-types. Unfortunately, the information about life external to RPI is very lacking, when not utterly inaccurate.
 
 ### Not the Rensselaer Handbook
 
-_Not the Rensselaer Handbook,_ a student publication with uncertain staff and even more uncertain publishing goals, attempts to fill in the gaps that the adminstrative handbook cannot reach. It does this with no small measure of satire, not unlike the _Pole._
+_Not the Rensselaer Handbook,_ a student publication with uncertain staff and even more uncertain publishing goals, attempts to fill in the gaps that the administrative handbook cannot reach. It does this with no small measure of satire, not unlike the _Pole._
 
 ## The Performing Arts
 
@@ -82,7 +82,7 @@ The Players are one of the oldest and largest student run clubs on campus. Their
 
 ### wE the Free Theatre
 
-An offshoot of _The RPI Players_, wE the Free Theater works on plays that are of small casts and of bizzare topics. At this time, the actual existance of this organization is seriously tenuous.
+An offshoot of _The RPI Players_, wE the Free Theater works on plays that are of small casts and of bizarre topics. At this time, the actual existence of this organization is seriously tenuous.
 
 ## Radio, Music, and Television
 
@@ -92,9 +92,9 @@ Probably the most misunderstood club on campus, _Radio Rensselaer_ is the studen
 
 The reasons for this are simple. First, WRPI is a ten thousand watt FM radio station, which has a vested interest in serving the entire Albany, Troy, and Schenectady areas, and _not_ just a college radio station. Thus, WRPI must stay on the air during times when students are not around. These times can be summarized as Vacation and Summer. It is during those times that the non-student members of the station are so critical. The second reason that non-students are critical to the operation of WRPI is that very, very few RPI students are willing to make the kind of time commitment that working at WRPI involves. In other words, they can't get enough students to save their lives.
 
-Another area of WRPI that is grossly misunderstood is its airsound. Students at RPI do not understand why "their" radio station doesn't play the same Top 40 music that they are accustomed to hearing. The reason, again, is two fold. First, the local commercial stations already do this, and would quickly lose their business (advertising) if WRPI started tearing their audience away from them. Second, WRPI is pledged to be an "educational" station. The goal of WRPI's airsound is simple: to play new and progressive music. This usually means music which is not commerically pushed as it is on other stations. The education comes in learning about music that one would normally never get to hear on commercial radio.
+Another area of WRPI that is grossly misunderstood is its airsound. Students at RPI do not understand why "their" radio station doesn't play the same Top 40 music that they are accustomed to hearing. The reason, again, is two fold. First, the local commercial stations already do this, and would quickly lose their business (advertising) if WRPI started tearing their audience away from them. Second, WRPI is pledged to be an "educational" station. The goal of WRPI's airsound is simple: to play new and progressive music. This usually means music which is not commercially pushed as it is on other stations. The education comes in learning about music that one would normally never get to hear on commercial radio.
 
-There are lots of things to do at WRPI besides doing a show. All of the electronic equipment in the studio and at the transmitter must be maintained by the members of WRPI. This is a great opportunity for aspiring EE's to get some real experience. The News Deparment is always looking for people to help with news announcing, and to work on a campus news show. There are lots of administrative tasks which have to be done, from checking opertions logs to sifting through Public Service Announcements for airplay. There is a production studio with multi-track recording capabilities being installed (again, by students) that will be used to record local bands. Remotes are a great way to go public and "spin tunes." Serious Troy Music Hall fans can get involved with WRPI sponsored concert recordings, using state of the art digital equipment.
+There are lots of things to do at WRPI besides doing a show. All of the electronic equipment in the studio and at the transmitter must be maintained by the members of WRPI. This is a great opportunity for aspiring EE's to get some real experience. The News Department is always looking for people to help with news announcing, and to work on a campus news show. There are lots of administrative tasks which have to be done, from checking operations logs to sifting through Public Service Announcements for airplay. There is a production studio with multi-track recording capabilities being installed (again, by students) that will be used to record local bands. Remotes are a great way to go public and "spin tunes." Serious Troy Music Hall fans can get involved with WRPI sponsored concert recordings, using state of the art digital equipment.
 
 ## Athletics
 

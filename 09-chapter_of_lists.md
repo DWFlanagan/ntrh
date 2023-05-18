@@ -10,39 +10,39 @@ How could this silliness be summarized better than by a chapter devoted to the m
 
 ## What to Take to an Exam
 
-### ### A writing instrument
+### A writing instrument
 
 Try pencils, pens, crayons, or even spray paint cans, but avoid anything which can't be erased quickly. Ignore this condition if you are a crosser-outer.
 
-### ### A calculating machine
+### A calculating machine
 
 A simple four function (yes, they still make them) device is fine, although nothing feels quite as good as an HP-41CX in the palm. Maybe bring two.
 
-### ### Back-up power for the calculator
+### Back-up power for the calculator
 
-Items like spare Duracels or even porta-ble electric generators work well.
+Items like spare Duracells or even portable electric generators work well.
 
-### ### Crib Sheet
+### Crib Sheet
 
 This can be loosely identified as notes for an "open book" test, but we advise against carrying into a test any textbook unless the course is Assembler, in which case the description of the entire IBM 360/70 instruction set might be slightly useful. If it's for a course like Physics I, bring a magnifying glass so you can read what you microprinted the night before.
 
-### ### A Picture of an Authoritative Intellectual
+### A Picture of an Authoritative Intellectual
 
 Our personal favorite is one of Albert Einstein, but a good profile of Max Planck will do wonders to confuse the TA's minds. The photo is basically a simple method to ensure that a great mind is overlooking your exam.
 
-### ### Stuffed Animal
+### Stuffed Animal
 
 Nothing soothes the savage test-taker like a warm fuzzie. Your friendly bear, penguin or tribble will work well.
 
-### ### Nourishment
+### Nourishment
 
 Brain food aside, a cold soda and munchies help take your mind off of test-death. Long-lasting lollipops work very well and don't disturb your fellow sufferers.
 
-### ### Small Portable TA
+### Small Portable TA
 
 This works best on tests that are open book, and the instructor has foolishly acknowledged that "anything you can carry into the test, you can use." A real fight starter. After all, your peers will all want to borrow your TA.
 
-### ### Drugs
+### Drugs
 
 While _NtRH_ doesn't advocate these, if you went to every lecture and recitation drunk or stoned, and did the homework and readings in the same state, it follows that you cannot perform on the exams unless you are in your common state of mind for the course. \\item \[Some Idea of How to Answer the Questions.\] This one seems almost _too_ obvious, but it is often overlooked as being too difficult, since it requires going to class, studying, doing the homework, etc. And ALWAYS make sure you know exactly what course the exam is for -- studying Physics for a Calculus test renders much of the knowledge you accumulated the night before useless.
 
@@ -61,33 +61,33 @@ While _NtRH_ doesn't advocate these, if you went to every lecture and recitation
 
 ## The Silliest Artwork on Campus
 
-![Plastic Blocks on Rope](images/10-plastic_blocks.jpg)
+### The Plastic Blocks on Rope
 
-### ### The Plastic Blocks on Rope
+![Plastic Blocks on Rope](images/10-plastic_blocks.jpg)
 
 In the 2nd and 3rd floors of the JEC, this winner takes the biscuit. A few years ago, it was joined by an old clothes washer on a cable.
 
-### ### Tank Treads
+### Tank Treads
 
 By the Folsom Library, on Hill St. Helen's, you can't miss them. They used to be right on top of the steam vent, but they got moved because they were getting rusty.
 
-### ### Brick Fountain
+### Brick Fountain
 
 Just off the JEC west ramp, this circular pyramid was designed to be a fountain, but funds ran out and so did the water.
 
-### ### Cowbells
+### Cowbells
 
 On the cliff overlooking the Walker Lab.
 
-### ### The New Playhouse
+### The New Playhouse
 
 Even the Players don't like the new look of their art-deco "barn."
 
-### ### Hudson River Fountain
+### Hudson River Fountain
 
 On the third floor of the Folsom Library, this huge set of cylinders was donated by Eric and Margaret Jonsson. When it is actually running, it's rather amusing to watch, but annoying if you are trying to study.
 
-### ### The Sage Laboratory Renovations
+### The Sage Laboratory Renovations
 
 Talk about clash!
 
@@ -136,5 +136,5 @@ Talk about clash!
 6. Why did the Yerazunis cross the road? He was welded to a chicken.
 7. What keeps Yerazunis's waterbed warm? Heavy water? No, Three Mile Island.
 8. Q: Is there any coconut in them? A: No, it's all solid state.
-9. What instruments are on a Yerazunis dashboard? A speedometer, tacho-meter and of course a gyrocompass.
+9. What instruments are on a Yerazunis dashboard? A speedometer, tachometer and of course a gyrocompass.
 10. What does a Yerazunis use to toss the salad? An F-14 turbine engine.

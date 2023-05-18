@@ -38,7 +38,7 @@ Another popular idea is dressing in a way which demonstrates your lack of fear, 
 
 As sort of a final word on test taking, _Not the Staff_ feels that the best item to take to a test is still _Some Idea of How to Answer the Questions._ This seems to work the best, but we still don't know why.
 
-When taking tests, people leaving early are always a bad sign. If you are sitting in a three-hour exam, for instance, and somebody gets up after half an hour, hands his test in, and leaves, this generally means one of two things. Either he has realised that the test is trivial, which means that _you_ don't know what you're doing; or else, that the test is impossible, and he has quit while he is ahead. In either case, he is obviously smarter than you are.
+When taking tests, people leaving early are always a bad sign. If you are sitting in a three-hour exam, for instance, and somebody gets up after half an hour, hands his test in, and leaves, this generally means one of two things. Either he has realized that the test is trivial, which means that _you_ don't know what you're doing; or else, that the test is impossible, and he has quit while he is ahead. In either case, he is obviously smarter than you are.
 
 ## The C Vortex
 
@@ -68,7 +68,7 @@ One of the phrases that is common with RPI students is _flunking in_. What this 
 
 There is very little that you can do about flunking in. This is a trap which you have been caught in thanks to way RPI chooses to grade you. In attempting to avoid grade inflation, many professors will deliberately curtail the number of grades above \`C' level which are given out. However, other schools to which you would like to transfer do not take into account the fact that a \`C' from RPI is at least as difficult as an \`A' from many other universities.
 
-There is little that students can do to overcome the _C Vortex_, save for the J-Board case in the Spring of 1985, where a student had a ruling which called for a grade change. Needless to say, there was and still is a considerable uproar over this poitical avenue for grade enhancement. Realistically, RPI is not going to get any easier.
+There is little that students can do to overcome the _C Vortex_, save for the J-Board case in the Spring of 1985, where a student had a ruling which called for a grade change. Needless to say, there was and still is a considerable uproar over this political avenue for grade enhancement. Realistically, RPI is not going to get any easier.
 
 ## Not the Grading System
 

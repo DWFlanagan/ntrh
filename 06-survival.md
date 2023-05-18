@@ -70,7 +70,7 @@ Troy has only two real theaters, the Uncle Sam Atrocity, and the Cinema (Skinema
 
 ### Restaurants
 
-The Capital District is well represented by various food merchants, and boasts a fine collection of resturants that most students can afford. The following listings are categorized by atmosphere, and within those categories by price.
+The Capital District is well represented by various food merchants, and boasts a fine collection of restaurants that most students can afford. The following listings are categorized by atmosphere, and within those categories by price.
 
 #### Sandwich Bars
 
@@ -88,13 +88,13 @@ Pasta Express --- 290 Lark Street, Albany. Incredibly good pasta in huge quantit
 
 #### Dessert Shops
 
-Ben and Jerry's --- Vermont's Finest Ice Cream retailer. There are two outlets in Albany, one on New Scotland Ave. just past the Albany Medical Center (hey, they can take my tonsils out anytime!) and the other in the Crossgates Mall. Makes a good excuse for a mall roadtrip. Beware _the Vermonster_, it makes the RPI Colossus look like a dish for a wimp.
+Ben and Jerry's --- Vermont's Finest Ice Cream retailer. There are two outlets in Albany, one on New Scotland Ave. just past the Albany Medical Center (hey, they can take my tonsils out anytime!) and the other in the Crossgates Mall. Makes a good excuse for a mall road trip. Beware _the Vermonster_, it makes the RPI Colossus look like a dish for a wimp.
 
 #### Classy Joints
 
 Cocos --- Tops the _NtRH_ list. This place is fun, fun, fun, but oh so Expensive, Expensive, EXPENSIVE. Plan on blowing $20 a head, easy. Mega drinks in fish bowl cups and a salad bar that's a meal in itself are the main features of a great place to take a friend to for a birthday celebration.
 
-TGI Fridays --- A popular place for the Yuppie crowd in Albany, this restaurant claims to have started the Singles Decade (that's 1970-present, for those not in the know). Wide selection on the menu, silly and trite knick-knacks on the wall, funny hats on the waitresses, and not a terribly inexpensive place.
+TGI Fridays --- A popular place for the Yuppie crowd in Albany, this restaurant claims to have started the Singles Decade (that's 1970-present, for those not in the know). Wide selection on the menu, silly and trite nick-knacks on the wall, funny hats on the waitresses, and not a terribly inexpensive place.
 
 ### Bookstores
 
@@ -102,7 +102,7 @@ Boulevard Bookstore --- 12 Northern Street, Albany. This store specializes in so
 
 FantaCo --- 21 Central Avenue, Albany. One of the strongest comic and science fiction bookstores in the Capital District. They also sponsor a local comic book convention under the name of LastCon.
 
-Nelsons --- Central Ave., Albany. A classic usedbook store, the owner is personable and knows where almost all his books are.
+Nelsons --- Central Ave., Albany. A classic used book store, the owner is personable and knows where almost all his books are.
 
 Colsons --- State at Pearl, Albany. Largest collection of magazines and newspapers in area. Sleazy crowd after hours.
 
@@ -112,11 +112,11 @@ Electric City Comics --- Schenectady. Wide and diverse selection of new and old 
 
 ### Malls
 
-Crossgates Mall --- The undisputed king of area malls, and source of predictions that other area malls would go under by stealing their business. Crossgates sports twelve theaters, a huge selection of fast food vendors, including Ben and Jerry's Ice Cream, and several anchor stores such as J. C. Penney, Jordan Marsh, Filene's, and even Caldor. Altogther the Total Mall Experience (TME).
+Crossgates Mall --- The undisputed king of area malls, and source of predictions that other area malls would go under by stealing their business. Crossgates sports twelve theaters, a huge selection of fast food vendors, including Ben and Jerry's Ice Cream, and several anchor stores such as J. C. Penney, Jordan Marsh, Filene's, and even Caldor. Altogether the Total Mall Experience (TME).
 
 Colonie Mall --- The previous champion of the area malls, Colonie was the only bi-level mall until Crossgates. There is less at Colonie in the way of shoe shops, but it does have a newly refurbished Sears, Roebuck Co. store and also a Macy's, the classiest store in any area mall. The UA Towne Central, RKO Fox, and the Cine 1..8 theaters are located within a few hundred meters of this mall.
 
-Latham Circle Mall --- This "mall" started life as an outdoor shopping center, which was later enclosed to accomodate the new mall concept. While claiming nothing special, the Circle does have a Boston Store and two video arcades, side by side, which in the past have had price wars. The most redeming feature of the Circle is that it is the closest mall in the area to Troy, excepting the Uncle Sam Atrium.
+Latham Circle Mall --- This "mall" started life as an outdoor shopping center, which was later enclosed to accommodate the new mall concept. While claiming nothing special, the Circle does have a Boston Store and two video arcades, side by side, which in the past have had price wars. The most redeeming feature of the Circle is that it is the closest mall in the area to Troy, excepting the Uncle Sam Atrium.
 
 Mohawk Mall --- Schenectady's own mall, this thing is long and twisty. Way the hell out on Route 7, unless you happen to live in Schenectady.
 
