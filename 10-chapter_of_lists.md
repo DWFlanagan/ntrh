@@ -22,7 +22,7 @@ Items like spare Duracels or even porta-ble electric generators work well.
 
 **Crib Sheet.**
 
-This can be loosely identified as notes for an \`\`open book'' test, but we advise against carrying into a test any textbook unless the course is Assembler, in which case the description of the entire IBM 360/70 instruction set might be slightly useful. If it's for a course like Physics I, bring a magnifying glass so you can read what you microprinted the night before.
+This can be loosely identified as notes for an "open book" test, but we advise against carrying into a test any textbook unless the course is Assembler, in which case the description of the entire IBM 360/70 instruction set might be slightly useful. If it's for a course like Physics I, bring a magnifying glass so you can read what you microprinted the night before.
 
 **A Picture of an Authoritative Intellectual.**
 
@@ -38,7 +38,7 @@ Brain food aside, a cold soda and munchies help take your mind off of test-death
 
 **Small Portable TA.**
 
-This works best on tests that are open book, and the instructor has foolishly acknowledged that \`\`anything you can carry into the test, you can use.'' A real fight starter. After all, your peers will all want to borrow your TA.
+This works best on tests that are open book, and the instructor has foolishly acknowledged that "anything you can carry into the test, you can use." A real fight starter. After all, your peers will all want to borrow your TA.
 
 **Drugs.**
 
@@ -79,7 +79,7 @@ On the cliff overlooking the Walker Lab.
 
 **The New Playhouse.**
 
-Even the Players don't like the new look of their art-deco \`\`barn.''
+Even the Players don't like the new look of their art-deco "barn."
 
 **Hudson River Fountain.**
 

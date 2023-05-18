@@ -22,7 +22,7 @@ Security does provide some useful services to students, such as help with recove
 
 It is the policy of RPI to provide the best possible computing facility to the administration (and others too). It is also RPI policy to restrict the user. In order for these policies to be successful it is essential that the users themselves observe reasonable standards of behavior in the use of these facilities, as in any other aspect of their lives.
 
-Computing at RPI has become a part of almost every student's academic life. This has resulted in a set of \`\`Computer Ethics'' which are more accurately termed \`\`computer morals.'' _Not the Handbook_ has thoughtfully rewritten them so that the biblical signifigance may be better felt by the computer user.
+Computing at RPI has become a part of almost every student's academic life. This has resulted in a set of "Computer Ethics" which are more accurately termed "computer morals." _Not the Handbook_ has thoughtfully rewritten them so that the biblical signifigance may be better felt by the computer user.
 
 ### The Ten Commandments of ITS
 

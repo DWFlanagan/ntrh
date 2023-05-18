@@ -13,7 +13,7 @@ and others
 Introduction
 ------------
 
-_Not the Rensselaer Handbook_ is intended to be a source of invaluable knowledge concerning the activities of students at RPI. It is written to be used as a reference guide to not only surviving at RPI, but for surviving with _style._ You could almost call _Not the Handbook_ the \`\`Passer-by's Guide to Rensselaer.'' However, we won't. _Not the Handbook_ is not intended to be used as a collector's item, a scholastic aid, or a measure of the literary skill of the students involved, but rather as a tool to aid current, past and future students of RPI, in their attempts to live at and work with the school.
+_Not the Rensselaer Handbook_ is intended to be a source of invaluable knowledge concerning the activities of students at RPI. It is written to be used as a reference guide to not only surviving at RPI, but for surviving with _style._ You could almost call _Not the Handbook_ the "Passer-by's Guide to Rensselaer." However, we won't. _Not the Handbook_ is not intended to be used as a collector's item, a scholastic aid, or a measure of the literary skill of the students involved, but rather as a tool to aid current, past and future students of RPI, in their attempts to live at and work with the school.
 
 The staff of _Not the Handbook_ would like to thank the many hours of help it received from: the Association of Computer Machinery for the funds to digitally prepare the text; the Archives Department of the Folsom Library, whose staff were most helpful in preparing the history section of the text, and for other random items of information; and the Information and Personal Assistance Center for their cooperation with our Chapter of Lists investigations. Finally, we would like to thank the entire school for being the crazy institution it is, for how else could this thing be created?
 
@@ -46,13 +46,13 @@ On 7 May 1867, Sage's wife died of stomach cancer. After the funeral, Sage was a
 
 In 1869, Sage was involved, and later convicted, in a case concerning the Usury Laws in New York state. He was fined $500, but his jail sentence was suspended. He was accused of being the gang leader in a usury group. Later that year, Sage married his second wife, Olivia Slocum.
 
-Olivia Slocum was a school teacher from Troy, who had attended the Troy Female Seminary, now known as Emma Willard School. She was forty-one when Sage married her, he was 53. The marriage was not out of love; Sage needed someone to call his wife so that he would not be the prey of \`\`seduction lawsuits.'' There is no indication that Olivia and Russell ever really cared for each other, and it seems even less likely that they were ever intimate. Sage continued to have affairs with beautiful and exotic women until his later years, after which he settled down to doing his serious profiteering.
+Olivia Slocum was a school teacher from Troy, who had attended the Troy Female Seminary, now known as Emma Willard School. She was forty-one when Sage married her, he was 53. The marriage was not out of love; Sage needed someone to call his wife so that he would not be the prey of "seduction lawsuits." There is no indication that Olivia and Russell ever really cared for each other, and it seems even less likely that they were ever intimate. Sage continued to have affairs with beautiful and exotic women until his later years, after which he settled down to doing his serious profiteering.
 
 Sage was elected onto the Institute's board of Trustees on 24 June 1896. His only relative to attend RPI was a newphew, Russell Sage, Jr., who graduated in 1859.
 
 Sage died in 1906, during a vacation that his doctor requested he take to get away from the business. Apparently the withdrawal killed him. His wife Olivia found herself with a $70 million estate almost overnight. She immediately established the Sage Foundation to aid in promoting social and educational causes. It was in this way that this school teacher from Troy, who was at the time the wealthiest woman in the US, began to make contributions to education. In particular, she fought for better women's education.
 
-Olivia Slocum Sage made two large contributions to RPI. The first was funds for the building of the Russell Sage Laboratory, which was to house the new Mechanical and Electrical Engineering departments. At the time RPI was primarily a Civil Engineering school. When Palmer Ricketts, then President of RPI, sent her a letter suggesting the building of these departments, Olivia replied with a letter which said, in effect, \`\`Good idea.'' To lend some weight to her letter, she also enclosed a check for $100,000. Eventually, the total sum donated for that purpose reached one million dollars.
+Olivia Slocum Sage made two large contributions to RPI. The first was funds for the building of the Russell Sage Laboratory, which was to house the new Mechanical and Electrical Engineering departments. At the time RPI was primarily a Civil Engineering school. When Palmer Ricketts, then President of RPI, sent her a letter suggesting the building of these departments, Olivia replied with a letter which said, in effect, "Good idea." To lend some weight to her letter, she also enclosed a check for $100,000. Eventually, the total sum donated for that purpose reached one million dollars.
 
 The other major contribution came in the wake of a new addition to the Quadrangle dorms. During the planning for the White dorm extensions, Olivia Slocum wrote President Ricketts stating that she would offer $100,000 for the construction of a dining hall. This hall was to be named after her nephew, Russell Sage, Jr.
 
@@ -62,13 +62,13 @@ Eric Jonsson, a dedicated Rensselaer alumnus of the class of 1922, and his wife 
 
 The next major gift to Rensselaer was $2,600,000 toward the construction of a new engineering center. The initial cost estimate for the building, as given to the New York State Dormitory Fund on 4 March 1975, was $11,808,100. While the Dormitory Fund did cover some of it, a 30 year bond was taken to cover most of the cost of the building. RPI intended to cover the bond with gifts, despite the annual payments of $202,000.
 
-The actual groundbreaking was to be initiated by Margaret Jonsson; however, she was in Dallas, Texas at the time. A small charge was set up to be detonated by a phone call that Mrs. Jonsson made ... thus the term \`\`dial-a-bomb'' came to be the description of the event on 15 April 1975, at 11AM. The '86 Field became the \`\`'43 Field,'' as construction equipment and much of the fill that was excavated for the basement of the Center (4000 cubic yards) was placed on the playing surface, cutting the field almost precisely in half down the long axis. The half of the field which was buried with fill became known as Mount Fogarty; it was two stories tall. The Jonsson Engineering Center opened in August 1977, and became a center piece of the \`\`Rensselaer 2000'' plan.
+The actual groundbreaking was to be initiated by Margaret Jonsson; however, she was in Dallas, Texas at the time. A small charge was set up to be detonated by a phone call that Mrs. Jonsson made ... thus the term "dial-a-bomb" came to be the description of the event on 15 April 1975, at 11AM. The '86 Field became the "'43 Field," as construction equipment and much of the fill that was excavated for the basement of the Center (4000 cubic yards) was placed on the playing surface, cutting the field almost precisely in half down the long axis. The half of the field which was buried with fill became known as Mount Fogarty; it was two stories tall. The Jonsson Engineering Center opened in August 1977, and became a center piece of the "Rensselaer 2000" plan.
 
 #### Alan Voorhees
 
 ![](https://web.archive.org/web/20160809181640im_/http://deltosfleet.smugmug.com/Travel/RPI-2012/i-PvDS2W3/0/S/DSC0208-S.jpg)
 
-The Chapel became the school's second computer center, with the donations of Alan Voorhees and the insistence of RPI's students. In 1977 a study was completed detailing options for a new computer center, to replace the Amos Eaton facility and house the 'brand-new' IBM 3033 (see Myron in _Tute Speak)_. The study was to choose among three plans. The first two proposals sought to build the center on top of or below the Armory Parking Lot. The third plan suggested renovating the Seminary Chapel, which was empty as of the opening of the Folsom Library. The Chapel was not favored by either the architecture group doing the study, nor by the Trustees, but a student referendum overwhelmingly chose the old church building as the site, remarking on the aesthetic beauty of the Chapel versus yet another \`\`high-tech'' edifice. According to students who were present at the time these decisions were being made, the student referendum did not really amount to a hill of beans; the item which tipped the scales in the favour of the Chapel as a computer center was that the estimated cost of the Armory computer center nearly doubled between the initial cost estimates and the final decision. With Alan Voorhees' $3.4 million gift (the largest single donation in RPI's history) the Voorhees Computing Center went under construction. The center opened on 9 Oct 1979.
+The Chapel became the school's second computer center, with the donations of Alan Voorhees and the insistence of RPI's students. In 1977 a study was completed detailing options for a new computer center, to replace the Amos Eaton facility and house the 'brand-new' IBM 3033 (see Myron in _Tute Speak)_. The study was to choose among three plans. The first two proposals sought to build the center on top of or below the Armory Parking Lot. The third plan suggested renovating the Seminary Chapel, which was empty as of the opening of the Folsom Library. The Chapel was not favored by either the architecture group doing the study, nor by the Trustees, but a student referendum overwhelmingly chose the old church building as the site, remarking on the aesthetic beauty of the Chapel versus yet another "high-tech" edifice. According to students who were present at the time these decisions were being made, the student referendum did not really amount to a hill of beans; the item which tipped the scales in the favour of the Chapel as a computer center was that the estimated cost of the Armory computer center nearly doubled between the initial cost estimates and the final decision. With Alan Voorhees' $3.4 million gift (the largest single donation in RPI's history) the Voorhees Computing Center went under construction. The center opened on 9 Oct 1979.
 
 The center is unique in that a small building was constructed _inside_ the old chapel. To save energy costs, the heat generated by the computer within keeps the building warm in the winter. The new IBM 3081D computer now resides in the basement of the VCC. Unfortunately, the new machine does not produce the heat that the 3033 did, and people were worried about the possibility that they would have to install a real heating system in the computer center; however, it turned out that the IBX telephone system generates more heat on its own than the 3033 ever did. And since the IBX is housed in the VCC, heat is suddenly no problem. Of course, the air conditioning systems have had to be beefed up ...
 
@@ -78,7 +78,7 @@ Libraries at RPI have always taken a back burner to the more pressing needs of t
 
 The Amos Eaton Hall served as a library until around 1961, when the Chapel and University Building were purchased by RPI. The Chapel was 'renovated', and in the place of pews went library shelves. By 1965, the Chapel was the main library. The Amos Eaton building became the Mathematics building, and housed the first real computing center at RPI. Here Fat Albert, Godot, Myron, and other, smaller, unnamed computers would later reside. The Chapel was a problem as a library, however, as its useful space was quickly filled with shelving.
 
-By the early 1970s, a referendum was under way to increase library space on campus, as part of a national library drive on college campuses. It was during this turbulent period that the question of expanding the Chapel or building a new library, probably on the site of the University Building, came up. The Institute's president, Richard Folsom, was quoted in the Troy Record on \*.\* as having said, \`\`the last thing this school needs is a new library ...'' Despite this, a new building was commissioned in the early 1970s.
+By the early 1970s, a referendum was under way to increase library space on campus, as part of a national library drive on college campuses. It was during this turbulent period that the question of expanding the Chapel or building a new library, probably on the site of the University Building, came up. The Institute's president, Richard Folsom, was quoted in the Troy Record on \*.\* as having said, "the last thing this school needs is a new library ..." Despite this, a new building was commissioned in the early 1970s.
 
 The Richard Gilman Folsom library was dedicated on 15 May 1976. It cost $6,900,000, holds 500,000 volumes, is composed of 10,000 cubic yards of concrete, and seats a maximum of 900 students. The library is named after the twelfth president of RPI; according to legend, it was so named as a final spit in the eye, since Folsom had kept the 'Tute from having a library for so long. The ground breaking ceremony was held in the spring of 1973. It is a fine library for a school that has traditionally shunned vaults for its texts.
 
@@ -88,7 +88,7 @@ The Richard Gilman Folsom library was dedicated on 15 May 1976. It cost $6,900,0
 
 ### Buildings which Move
 
-Since you have been on this campus for a while, you have doubtless heard of the existence of several buildings which are, to quote the vernacular, \`\`sliding down the hill into Troy.'' If you are like the average Tute student, however, you do not believe these stories at all. There are such buildings, however; what follows is a list of them, how they were discovered to be moving, and what, if anything, is being done about it.
+Since you have been on this campus for a while, you have doubtless heard of the existence of several buildings which are, to quote the vernacular, "sliding down the hill into Troy." If you are like the average Tute student, however, you do not believe these stories at all. There are such buildings, however; what follows is a list of them, how they were discovered to be moving, and what, if anything, is being done about it.
 
 #### Walker Labs
 
@@ -136,7 +136,7 @@ The Playhouse was originally purchased from the U.S. Army, for the sum of one do
 
 The Hirsch Observatory originally housed one medium-sized telescope which was used by the Astronomy Club for practice using the sort of equipment which existed in the real world (i.e. outside of RPI). When Generous Electric donated another, better telescope in 1982, a second dome was built to house it, since it was felt that the process of replacing the original telescope with the new one would cost more than simply building a new mounting system and putting the new telescope onto it.
 
-The observatory immediately became known as the \`\`Dolly Parton Observatory'' for rather obvious reasons. As a matter of fact, as a prank, a group of students painted the tops of both domes red, added red plastic buckets to the structure, and then covered the entire thing with a \`\`brassiere'' made out of bed sheets.
+The observatory immediately became known as the "Dolly Parton Observatory" for rather obvious reasons. As a matter of fact, as a prank, a group of students painted the tops of both domes red, added red plastic buckets to the structure, and then covered the entire thing with a "brassiere" made out of bed sheets.
 
 The Observatory was on the site which was destined to become the New York State Center for Industrial Innovation (NYSCII, or just CII to us illiterate types), and so it had to be moved. Of course, this would jar the rather delicate mechanisms of the telescopes. So, it was decided to move only the dome containing the more recent of the two telescopes, the one donated by GE. This dome now lives on top of the Science Center.
 
@@ -171,7 +171,7 @@ Security does provide some useful services to students, such as help with recove
 
 It is the policy of RPI to provide the best possible computing facility to the administration (and others too). It is also RPI policy to restrict the user. In order for these policies to be successful it is essential that the users themselves observe reasonable standards of behavior in the use of these facilities, as in any other aspect of their lives.
 
-Computing at RPI has become a part of almost every student's academic life. This has resulted in a set of \`\`Computer Ethics'' which are more accurately termed \`\`computer morals.'' _Not the Handbook_ has thoughtfully rewritten them so that the biblical signifigance may be better felt by the computer user.
+Computing at RPI has become a part of almost every student's academic life. This has resulted in a set of "Computer Ethics" which are more accurately termed "computer morals." _Not the Handbook_ has thoughtfully rewritten them so that the biblical signifigance may be better felt by the computer user.
 
 #### The Ten Commandments of ITS
 
@@ -193,7 +193,7 @@ This chapter will touch on the organizations, or offices in the lingo of the Adm
 
 ### Office of the Dean of Students
 
-A Dean's Notice is one of the few pieces of mail that will put the fear of transferring to another school into a student. The Dean's office is well known as the \`\`Office of Procrastination'' and many people who have dealt with it suggest that you meet their challenge by waiting them out, perhaps beyond graduation.
+A Dean's Notice is one of the few pieces of mail that will put the fear of transferring to another school into a student. The Dean's office is well known as the "Office of Procrastination" and many people who have dealt with it suggest that you meet their challenge by waiting them out, perhaps beyond graduation.
 
 The Office of Minority Students has been absorbed by the Dean's Office, as well as the Women's Affairs Office. All academic or social problems that concern more than one student are usually delt with by the Office of the Dean of Students.
 
@@ -215,13 +215,13 @@ NEAR deals more with immediate crisis calls than with ongoing problems. Located 
 
 ### IPAC
 
-The Information and Personal Assistance Center used to be the best source of obscure information on campus. However, more recently it has centered on personal aid for distressed people, and thus the \`\`trivia source'' it once was has diminished to almost a whimper. Still, they can usually tell you when and where your test will be, and how many steps there are on the Approach, but don't expect them to know what the Modern Classroom Facility is.
+The Information and Personal Assistance Center used to be the best source of obscure information on campus. However, more recently it has centered on personal aid for distressed people, and thus the "trivia source" it once was has diminished to almost a whimper. Still, they can usually tell you when and where your test will be, and how many steps there are on the Approach, but don't expect them to know what the Modern Classroom Facility is.
 
 In case you're wondering, the Modern Classroom Facility is the official name of the Communications Center.
 
 ### Chaplain's Office
 
-Father Gary is probably the most liberal Catholic known to the Church. He had almost completed his training as a Rabbi when he \`\`saw the light,'' as he would rather we didn't put it, and entered training for the priesthood. As a result, perhaps of this, he doesn't take his own religion as seriously as most priests do; and he can easily understand that, perhaps, your view of how the universe is held together does not exactly follow accepted dogma.
+Father Gary is probably the most liberal Catholic known to the Church. He had almost completed his training as a Rabbi when he "saw the light," as he would rather we didn't put it, and entered training for the priesthood. As a result, perhaps of this, he doesn't take his own religion as seriously as most priests do; and he can easily understand that, perhaps, your view of how the universe is held together does not exactly follow accepted dogma.
 
 To give you some idea of Father Gary's views on the world would probably take a book the size of _Not the Rensselaer Handbook._ However, just to give you the very bare bones of his outlook, Father Gary is reigning Meanest Man On Campus; he ran as Pope Obnoxious the First, and claimed responsibility for the two snowstorms which destroyed GM week during his campaign.
 
@@ -229,11 +229,11 @@ To give you some idea of Father Gary's views on the world would probably take a 
 
 The Gallagher Memorial Infirmary is one of the most terrifying places to spend a few days known to man. Not that the medical services are poor, or the staff excessively unfriendly, it is just that the place can give you the creeps.
 
-The first thing that most students will see when entering the Infirmary (during \`\`Sick Call'') is a waiting room full of people with various ailments, all with thermometers sticking out of their mouths. This is because the long-standing Infirmary policy has been that everyone, but everyone, who goes to the infirmary should have their temperature taken; this even includes salesmen who want to see the doctor. While people are waiting to be looked at seems to be the most convenient time for all involved. Signing in is the most important thing to do upon entering the Infirmary for treatment, for until this is done, no help will be offered (except in dire emergencies, in which case the student will be sent to Samaritan Hospital by Rensselaer Rescue anyway). Then a number must be taken, and a long wait will then begin. The reason for this is simple: a minimal staff.
+The first thing that most students will see when entering the Infirmary (during "Sick Call") is a waiting room full of people with various ailments, all with thermometers sticking out of their mouths. This is because the long-standing Infirmary policy has been that everyone, but everyone, who goes to the infirmary should have their temperature taken; this even includes salesmen who want to see the doctor. While people are waiting to be looked at seems to be the most convenient time for all involved. Signing in is the most important thing to do upon entering the Infirmary for treatment, for until this is done, no help will be offered (except in dire emergencies, in which case the student will be sent to Samaritan Hospital by Rensselaer Rescue anyway). Then a number must be taken, and a long wait will then begin. The reason for this is simple: a minimal staff.
 
 If the dreaded happens, and one of the doctors decides that you must stay overnight, then the nightmare begins. You must wear a smock, and spend your night in the hideous Infirmary Beds which are designed to keep you in a prone position. The night nurse will all most certainly wake you up, just after you finally fall asleep, to give you some medication; if you are extremely fortunate, it will not be a sleeping pill. You will, however, have your temperature taken every four hours, all night long. If you are not restricted to bed, then you can spend your daytime in the lounge, watching TV (commercial, ack!) or puttering around. Only the truly clever bring homework, and most everyone falls behind, after even a few days. Of course, contact with the outside world is minimal, at best. Visiting hours are slim, and for patients with _mono,_ almost nil.
 
-The most common ailments that put students in overnight are overdrinking and mononucleosis. Alcohol poisoning is a very popular sport at RPI, and during the first couple of weeks, it is very common among freshmen. Apparently, in past years it has quite often happened that freshmen thinking about pledging fraternities have been \`\`over-entertained'' by over-enthusiastic houses. The result is usually some poor freshman being pulled out of the gutter and into the hospital. Opinions are mixed as to which of the two places is more dangerous. Since the drinking age in New York has been raised to 21, this problem seems to have been somewhat alleviated. Mono seems to hit twenty or thirty people a week, mostly around test time. The average student's immunities start failing around the time of greatest pressure, and mono is easily picked up in the cramped quarters of the dorms, again, especially amongst freshmen. Mono is almost the death sentence to a student's GPA, for the average stay in the Infirmary is four weeks.
+The most common ailments that put students in overnight are overdrinking and mononucleosis. Alcohol poisoning is a very popular sport at RPI, and during the first couple of weeks, it is very common among freshmen. Apparently, in past years it has quite often happened that freshmen thinking about pledging fraternities have been "over-entertained" by over-enthusiastic houses. The result is usually some poor freshman being pulled out of the gutter and into the hospital. Opinions are mixed as to which of the two places is more dangerous. Since the drinking age in New York has been raised to 21, this problem seems to have been somewhat alleviated. Mono seems to hit twenty or thirty people a week, mostly around test time. The average student's immunities start failing around the time of greatest pressure, and mono is easily picked up in the cramped quarters of the dorms, again, especially amongst freshmen. Mono is almost the death sentence to a student's GPA, for the average stay in the Infirmary is four weeks.
 
 ### Financial Aid
 
@@ -260,11 +260,11 @@ Academic Protocol
 
 ### Everything you wanted to know about the Administration ... but were afraid to ask
 
-It is a fact that every RPI student, in his or her academic career, will have to travel several times up and down the dangerous steps that lead to the entrance of \`\`The Pitts.'' Learning how to deal with this bureaucratic ordeal can be one of the most important steps one can take towards achieving the penultimate goal, that is, getting a diploma. This chapter will deal with the problems and realities of registration, attending classes and exams, recovering from receiving your report card, and how to keep on one's academic feet. Admittedly, not an easy task.
+It is a fact that every RPI student, in his or her academic career, will have to travel several times up and down the dangerous steps that lead to the entrance of "The Pitts." Learning how to deal with this bureaucratic ordeal can be one of the most important steps one can take towards achieving the penultimate goal, that is, getting a diploma. This chapter will deal with the problems and realities of registration, attending classes and exams, recovering from receiving your report card, and how to keep on one's academic feet. Admittedly, not an easy task.
 
 ### Registration
 
-Registration is the act of telling the school, in as simple terms as is possible, exactly which courses you, the student, wish to take during a semester. \`\`But,'' says the registrar, \`\`THAT would be too much like work for my office!'' In fact, it is interesting to note that at RPI, so few majors even offer alternate, or _elective_ courses, as they are more commonly known, that the act of registration is often simply an show of submission, indicating to the school that the student once again has given over to the Administration all vestiges of free will in matters of his life. Of course, at that point, the student finds the registration process little more than a tiring paper-pushing exercise, and no fun at all. This has become decidedly more so since the new \`\`fill-in-the-dots'' registration form arrived in Spring 1984.
+Registration is the act of telling the school, in as simple terms as is possible, exactly which courses you, the student, wish to take during a semester. "But," says the registrar, "THAT would be too much like work for my office!" In fact, it is interesting to note that at RPI, so few majors even offer alternate, or _elective_ courses, as they are more commonly known, that the act of registration is often simply an show of submission, indicating to the school that the student once again has given over to the Administration all vestiges of free will in matters of his life. Of course, at that point, the student finds the registration process little more than a tiring paper-pushing exercise, and no fun at all. This has become decidedly more so since the new "fill-in-the-dots" registration form arrived in Spring 1984.
 
 Any documents which the Registrar would be interested in, such as registration forms and Add/Drop cards, must be signed by your advisor. So, without a doubt, one of the highlights of registration is finding out who one's advisor is. After that, the processes of actually determining if that person is still alive, and if so, then where and when he might be approached are merely trivial exercises. Many frantic students can be seen rushing about with add/drop forms dangling from their mouths, wild-eyed in anticipation of catching the intrepid advisor in an idle moment. The actual sighting of advisors can bring a student to tears, and some students, in their excitement, have even masticated the all-important add/drop form, much to their horror! Needless to say, there can be obstacles to getting forms signed even if one finds one's advisor. The advisor may, if diligent, insist on taking full records of your planned course load. And heaven forbid you interrupt a coffee break.
 
@@ -274,17 +274,17 @@ So little is really known about how to attend classes that a large amount of res
 
 Actually, why should a student attend class? Well, for a start, a large part of a student's tuition goes toward paying the professor to show up and mutter into a microphone about the motion of an object through N dimensions, usually in words directly out of the text. Besides, if you absolutely cannot read anything in print, then a lecture might actually get the gist of the class subject across ... assuming that the instructor in fact speaks intelligible American English.
 
-This philosophy is even more evident when applied to the subject of attending exams, for very obvious reasons. It should be noted that at RPI, one does not have to take \`\`tests;'' rather, one is subjected to \`\`quizzes,'' which almost always require more time to finish (and on rare occasions ... to simply read) than is allowed. On top of this hardship is the timing of these measurements of academic ability. It is not uncommon for upperclassmen to be taking two or three tests in one day. The helpless freshmen must rise before the sun on F-Test days to get to their \`\`quizzes.'' It seems like a lot of work for some pitifully small numbers, but these values sum up to the value the \`\`real world'' (i.e. parents, potential employers, even peers) uses to rate your existence.
+This philosophy is even more evident when applied to the subject of attending exams, for very obvious reasons. It should be noted that at RPI, one does not have to take "tests;" rather, one is subjected to "quizzes," which almost always require more time to finish (and on rare occasions ... to simply read) than is allowed. On top of this hardship is the timing of these measurements of academic ability. It is not uncommon for upperclassmen to be taking two or three tests in one day. The helpless freshmen must rise before the sun on F-Test days to get to their "quizzes." It seems like a lot of work for some pitifully small numbers, but these values sum up to the value the "real world" (i.e. parents, potential employers, even peers) uses to rate your existence.
 
 Since exams are a hefty percentage of everyone's QPA at RPI, a description of what to take to an exam is a very useful piece of information that many students are very unfamiliar with. A few sensible items include pens, pencils, erasers, paper and a calculator. Clearly, these elements of test taking are the most critical, so don't buy cheap. Carry backups, just like the astronauts do, because taking an exam is a lot like being in space; you must survive this dark vacuum by your wits alone, with assistance only from whatever tools you have brought in with you. Mechanical pencils are the best bet at RPI, because every pencil sharpener at the Tute is somebody's private property and will be on the wrong side of a locked door when you most need it.
 
-As for calculators, well, everyone wishes he had an HP-41CX, but life is full of hardships. You might just have to settle for a TI-30, but in most cases, that will do. It certainly won't matter what kind of calculator you have if it runs out of power in the middle of the test. Calculator Death is one of the most common reasons Tute students fail tests ... when their \`\`plastic pals who are fun to be with'' fail them, their minds become catatonic. So, carry extra batteries or a wall plug or even a portable generator. This is your _grade,_ hockey puck!
+As for calculators, well, everyone wishes he had an HP-41CX, but life is full of hardships. You might just have to settle for a TI-30, but in most cases, that will do. It certainly won't matter what kind of calculator you have if it runs out of power in the middle of the test. Calculator Death is one of the most common reasons Tute students fail tests ... when their "plastic pals who are fun to be with" fail them, their minds become catatonic. So, carry extra batteries or a wall plug or even a portable generator. This is your _grade,_ hockey puck!
 
 The aforementioned tools are, of course, essential to succeeding on tests. However, there are other items that one could bring that might provide that extra edge to help overcome test anxiety, or at least amuse yourself while waiting for the test time to end. First on _Not the Handbook_'s list is food. A wide category, we admit, but there are right foods to take to tests, and there are wrong foods. Beware anything that becomes inedible after sitting on the table for more than an hour. Junk food is the most popular stuff found at tests, for it cannot spoil, and it usually has certain stimulating effects on the mind, as well as stimulating cancer in the stomach. Twinkies, Ding Dongs, hetohs and Doritos lead the pack. Sodas, such as Coke, Pepsi (the commonest outpouring of the campus soda machines), Mountain Dew (the campus king of caffeine) and Hires can cut through the driest test throat. If you are in need of serious stimulation, or are so totally beyond help that being at the test is not going to make a significant impact on your grade, then drinks like beer, vodka or even Jack Daniels might be in order. Beware, some test proctors are not going to like seeing you drunk, unless you are willing to share.
 
 There is a second category of items to take to tests that is almost an art. This is the category of items whose sole purpose is to either soothe the test-taker's fears, or to totally bewilder the teaching assistants. Our personal favorite item is the stuffed animal, be it a teddy bear, a tribble or even a leather penguin. These little critters will provide something to hold onto, even during the worst tests. They provide a great buffer from test shock.
 
-A third appeal to insanity is to bring a photo of a great scientist or mathematician to the test, setting the photo on your table or placing it in your shirt pocket with the image facing out, and telling the TA that you now have an authoritative intellectual \`\`looking over your test.'' You can't go wrong, some people swear by this.
+A third appeal to insanity is to bring a photo of a great scientist or mathematician to the test, setting the photo on your table or placing it in your shirt pocket with the image facing out, and telling the TA that you now have an authoritative intellectual "looking over your test." You can't go wrong, some people swear by this.
 
 Another popular idea is dressing in a way which demonstrates your lack of fear, or of common sense when taking a test. Bathrobes, dark sunglasses, suits of armor and the like are very effective. Remember, the main idea here is to confuse your peers and the TA's in the hopes of altering the probabilities on the curve.
 
@@ -296,9 +296,9 @@ When taking tests, people leaving early are always a bad sign. If you are sittin
 
 A word or two is in order concerning the nature of these things known as grades. Few numbers at RPI will be more arbitrary than these. It will seem that the values placed on test scores, computer projects and even class attendance are totally ridiculous. They will only become clear if you understand something very basic about grading at Rensselaer.
 
-The Curve, or as we like to think of it, the _\`\`C'' Vortex_, is the root fault. In large classes, for example, the instructors will be attempting, whenever they make a test up, to insure that the grades achieved will fit nicely into a curve like this: 5% with F's, 10% with D's, 70% with C's, 10% with B's and 5% with A's. If this doesn't work out, then our friend the arbitrary constant will be added to the grades to bring them in line with these goals. In Math classes, there may also be multiplication by a different arbitrary constant, just to prove that the Math department can do arithmetic better than anybody else.
+The Curve, or as we like to think of it, the _"C" Vortex_, is the root fault. In large classes, for example, the instructors will be attempting, whenever they make a test up, to insure that the grades achieved will fit nicely into a curve like this: 5% with F's, 10% with D's, 70% with C's, 10% with B's and 5% with A's. If this doesn't work out, then our friend the arbitrary constant will be added to the grades to bring them in line with these goals. In Math classes, there may also be multiplication by a different arbitrary constant, just to prove that the Math department can do arithmetic better than anybody else.
 
-Many of you might be thinking to yourselves, \`\`Hey, this is bogus!'' Think again. Look over your old physics course work; compare it with what the rest of your class did. Examine your efforts in relation to others while you take Engineering Courses. Think on this: Are you really doing anything all that much better than anybody else? Eventually you will see a pattern that spells \`\`2.0'' for your QPA. Keep this in mind when explaining your performance to the P & M. It is the curse of the curve.
+Many of you might be thinking to yourselves, "Hey, this is bogus!" Think again. Look over your old physics course work; compare it with what the rest of your class did. Examine your efforts in relation to others while you take Engineering Courses. Think on this: Are you really doing anything all that much better than anybody else? Eventually you will see a pattern that spells "2.0" for your QPA. Keep this in mind when explaining your performance to the P & M. It is the curse of the curve.
 
 ### What happens if you do fall out of the C Vortex?
 
@@ -334,7 +334,7 @@ Dean's List minimum. Keeps the financial aid just out of reach for most students
 
 **C**
 
-Engineering average, otherwise known as the \`\`C'' Vortex. The typical grade of 70% of most students. Keeps you in through 8 semesters.
+Engineering average, otherwise known as the "C" Vortex. The typical grade of 70% of most students. Keeps you in through 8 semesters.
 
 **CD**
 
@@ -342,7 +342,7 @@ Calculator Died during final.
 
 **D**
 
-Passing. As the old adage says, \`\`D equals P.''
+Passing. As the old adage says, "D equals P."
 
 **F**
 
@@ -421,7 +421,7 @@ Not Living Here
 
 ### RPI Housing
 
-RPI provides all kinds of \`\`housing'' for all kinds of students. Apparently, in the interests of the lowest common denominator, this housing takes the form of civilian dwellings not unlike those of Berlin or Paris during World War II. RPI does not discriminate housing to any student, save for sex, class, and your lottery number, and does its best to maintain a standard in ill repair, disinterest and in general, a lack of capital investment. Be especially wary if your dorm room is on \`\`future development'' land.
+RPI provides all kinds of "housing" for all kinds of students. Apparently, in the interests of the lowest common denominator, this housing takes the form of civilian dwellings not unlike those of Berlin or Paris during World War II. RPI does not discriminate housing to any student, save for sex, class, and your lottery number, and does its best to maintain a standard in ill repair, disinterest and in general, a lack of capital investment. Be especially wary if your dorm room is on "future development" land.
 
 ### Residence Life at RPI
 
@@ -433,7 +433,7 @@ In the interests of enlightening you who have not had the chance to read _The Re
 
 *   Respect for other's property, except for stereos, liquor and sexual partners.
     
-*   Respect for and abidance by Institute rules, otherwise known as the \`\`Knees Upon the Ground'' clause.
+*   Respect for and abidance by Institute rules, otherwise known as the "Knees Upon the Ground" clause.
     
 *   Undisturbed hours for study, sleep, sex and random behavior.
     
@@ -447,9 +447,9 @@ Once the freshman year is over, every student has the right to choose the place 
 
 ### On-Campus Housing
 
-On-campus housing is not the best standard of living for RPI upperclassmen. RPI is one of the most expensive landlords in Troy, and the school demands payment up front. A breakage fee is charged to each student in order to provide the school with insurance money so that it can cover the costs of damage done by random vandals, at everyone's expense. On-campus housing requires one to use the IBX Phone system, which is RPI's own version of AT&T, and which is slightly more expensive, too; the only alternative is no phone service at all. Dorm kitchen facilities are reasonable, but none of the expendables involved in running a kitchen are provided (e.g. paper towels, cleanser, sponges ... ). Most of the bathrooms are public in some fashion or another, as are the lounges, kitchens and basements. Security regularly warns residents of crime hazards which are still too numerous to be effectively controlled, especially during student vacations. Break-ins are fairly common. The front doors to most dorms are left unlocked, so almost anyone who wants to enter a dorm can. Campus Security can enter any room on campus and search if they have \`\`reasonable cause'', which is far more than Troy Police can do to Troy residents. Finally, the amount of personal space, that is, the room one individual has to himself, is very limited with on campus housing. The gist of this is that RPI is probably the most expensive and impersonal landlord in Troy, for when a student lives on campus, RPI not only controls his academic life, but his home life as well.
+On-campus housing is not the best standard of living for RPI upperclassmen. RPI is one of the most expensive landlords in Troy, and the school demands payment up front. A breakage fee is charged to each student in order to provide the school with insurance money so that it can cover the costs of damage done by random vandals, at everyone's expense. On-campus housing requires one to use the IBX Phone system, which is RPI's own version of AT&T, and which is slightly more expensive, too; the only alternative is no phone service at all. Dorm kitchen facilities are reasonable, but none of the expendables involved in running a kitchen are provided (e.g. paper towels, cleanser, sponges ... ). Most of the bathrooms are public in some fashion or another, as are the lounges, kitchens and basements. Security regularly warns residents of crime hazards which are still too numerous to be effectively controlled, especially during student vacations. Break-ins are fairly common. The front doors to most dorms are left unlocked, so almost anyone who wants to enter a dorm can. Campus Security can enter any room on campus and search if they have "reasonable cause", which is far more than Troy Police can do to Troy residents. Finally, the amount of personal space, that is, the room one individual has to himself, is very limited with on campus housing. The gist of this is that RPI is probably the most expensive and impersonal landlord in Troy, for when a student lives on campus, RPI not only controls his academic life, but his home life as well.
 
-The method of aquiring on-campus housing is the housing lottery. The concept behind the lottery is simple. The student who enters the lottery is betting $100 that the Office of Housing is going to give them a good room to live in. This may not seem so strange to some, but it becomes clear just how far the odds are against the student when one realizes that most of the \`\`good rooms'' are being squatted in, and thus are not going to be on the lottery board anyway! The lottery becomes even more of a political battle when various minority factions claim exemptions to the rules, for reasons ranging from realistic (e.g. handicapped students) to simply selfish.
+The method of aquiring on-campus housing is the housing lottery. The concept behind the lottery is simple. The student who enters the lottery is betting $100 that the Office of Housing is going to give them a good room to live in. This may not seem so strange to some, but it becomes clear just how far the odds are against the student when one realizes that most of the "good rooms" are being squatted in, and thus are not going to be on the lottery board anyway! The lottery becomes even more of a political battle when various minority factions claim exemptions to the rules, for reasons ranging from realistic (e.g. handicapped students) to simply selfish.
 
 ### Institute Apartments
 
@@ -459,7 +459,7 @@ There are three main housing complexes open to Tute students: the Colonie apartm
 
 #### Colonie Apartments
 
-The Colonie apartments are a great place to live if you love your neighbors, because you are going to be hearing lots and lots from them. The walls are made of cardboard; so are the roofs, and the rainwater has a fine time playing in your kitchenette. A room holds two people, and is not very much larger than the tiny little thing you lived in all Freshman year; to justify the higher price, they install a \`\`room divider'' which is made of highest quality burlap, give you a joke of a little kitchen to play around with, and part shares in a bathroom. The place was built on the cheap many years ago, and later sold to RPI when it couldn't make a profit on its own, as a residential hotel. There are some fifty rooms in each building, and you will probably be able to hear what is going on in most of them. There are actually four buildings, and there isn't enough parking space for any of them.
+The Colonie apartments are a great place to live if you love your neighbors, because you are going to be hearing lots and lots from them. The walls are made of cardboard; so are the roofs, and the rainwater has a fine time playing in your kitchenette. A room holds two people, and is not very much larger than the tiny little thing you lived in all Freshman year; to justify the higher price, they install a "room divider" which is made of highest quality burlap, give you a joke of a little kitchen to play around with, and part shares in a bathroom. The place was built on the cheap many years ago, and later sold to RPI when it couldn't make a profit on its own, as a residential hotel. There are some fifty rooms in each building, and you will probably be able to hear what is going on in most of them. There are actually four buildings, and there isn't enough parking space for any of them.
 
 The other main problem with Colonie is the insect infestation. The actual residents of the buildings are the cockroaches, of which there are very many; the human beings are there on sufferance. The Tute is aware of the problem, and continually sends pest control crews around, usually about once a week during the early fall and spring months. This has had only one noticeable effect, however; the breed of cockroaches currently in residence in Colonie is immune to all known insecticides.
 
@@ -483,13 +483,13 @@ Bryckwyck, between Rensselaerwyck and Sunset Terrace, is actually the best of a 
 
 ### Fraternity Life
 
-Living in a fraternity is obviously a very social experience. Choosing to live in one of these places requires the consent of a large group of people. All of these people are officially your \`\`brothers'' (or \`\`sisters''), whether or not you can stand their personal habits; even if you can't, you must still put up with your house mates. What is more, you have to make sure that they can put up with you. In addition, a large amount of your free time will be spent in maintaining the residence. The building you live in will be owned by a proverbial \`\`fraternity corporation,'' rather than by any individual person, and so will need more work to keep it liveable, and will still appear generally shabbiery, than a comparable private home. The reason for this is simple: you take care of your own stuff better than you take care of anybody else's, and stuff that belongs to everybody is taken care of by nobody.
+Living in a fraternity is obviously a very social experience. Choosing to live in one of these places requires the consent of a large group of people. All of these people are officially your "brothers" (or "sisters"), whether or not you can stand their personal habits; even if you can't, you must still put up with your house mates. What is more, you have to make sure that they can put up with you. In addition, a large amount of your free time will be spent in maintaining the residence. The building you live in will be owned by a proverbial "fraternity corporation," rather than by any individual person, and so will need more work to keep it liveable, and will still appear generally shabbiery, than a comparable private home. The reason for this is simple: you take care of your own stuff better than you take care of anybody else's, and stuff that belongs to everybody is taken care of by nobody.
 
 The fraternity experience is not for everyone, but a surprisingly large number of students (around 40%) choose that route. It is not a choice that is easily changed, either.
 
-### Off-campus, or \`\`Taking your chances''
+### Off-campus, or "Taking your chances"
 
-Off-campus housing is definitely the best choice for the RPI student. With off-campus housing, the choice of where to live is made by the student, not by housing or the \`\`brothers in the house.'' With off-campus housing, the responsibility of where and how to live rests only with the student, whether it be monthly, or by a lease. The reality of off-campus housing is that most people are going to move into living arrangements of their own devising after they graduate, and the experience of doing it on your own can be very helpful in keeping the \`\`post-college blues'' from affecting you too much.
+Off-campus housing is definitely the best choice for the RPI student. With off-campus housing, the choice of where to live is made by the student, not by housing or the "brothers in the house." With off-campus housing, the responsibility of where and how to live rests only with the student, whether it be monthly, or by a lease. The reality of off-campus housing is that most people are going to move into living arrangements of their own devising after they graduate, and the experience of doing it on your own can be very helpful in keeping the "post-college blues" from affecting you too much.
 
 ### The Organic Waste Products Services
 
@@ -499,9 +499,9 @@ The RPI Food Services are the butt of almost half the jokes you might hear while
 
 Parking is a four letter word on this campus, just ask any automobile owner you see trudging around campus in search of his car. In its rampant growth over the last ten years, Rensselaer has built over many of its parking lots, and increased its parking population as well by hiring more faculty and staff, and admitting more students. Security seems to be overly concerned with the problems of automobile parking at RPI as well, they administer around 2500 tickets each semester (that's about 27 a day). What's really the sad part about parking at RPI is this: it's only going to get worse.
 
-The Rensselaer Department of Transportation (RDOT) is responsible for the rules of parking (and other aspects of motor vehicle use on campus). In an attempt to provide more parking for faculty, RDOT has adopted a \`\`points'' system for faculty and staff parking permits, which give points for salary levels and seniority, the net result being that the guy with the most points parks closest to his office. This has one major effect on student parking: there is _none_ directly on campus.
+The Rensselaer Department of Transportation (RDOT) is responsible for the rules of parking (and other aspects of motor vehicle use on campus). In an attempt to provide more parking for faculty, RDOT has adopted a "points" system for faculty and staff parking permits, which give points for salary levels and seniority, the net result being that the guy with the most points parks closest to his office. This has one major effect on student parking: there is _none_ directly on campus.
 
-Strictly speaking, there are only two student parking lots to be found. The largest is North Lot, which is also shared by the faculty and staff who didn't get slots in the \`\`inner core'' lots. The other lot(s) are located around the student dorms, with the highest concentration of spaces found around the freshman dorms. The Armory lot _was_ open to students, but with the closing of the Communications Center Upper Lot, for the construction of the CII, RDOT decided to cut this off from students. Of course, any student can park in any open spot along Sage Avenue or 15th Street, but these spots are in general hard to find during the day, and are often snowed under when the snow plow passes them.
+Strictly speaking, there are only two student parking lots to be found. The largest is North Lot, which is also shared by the faculty and staff who didn't get slots in the "inner core" lots. The other lot(s) are located around the student dorms, with the highest concentration of spaces found around the freshman dorms. The Armory lot _was_ open to students, but with the closing of the Communications Center Upper Lot, for the construction of the CII, RDOT decided to cut this off from students. Of course, any student can park in any open spot along Sage Avenue or 15th Street, but these spots are in general hard to find during the day, and are often snowed under when the snow plow passes them.
 
 To add to the aggravation, RDOT requires students to register their cars with Security, and pay a $10 fee (tax) to park on the legal student lots. The only reason they require this is to be able to trace a particular car to a particular student, in order that the inevitable parking ticket can be charged to the student's account with the Bursar. The fee for a parking infraction, (e.g. parking without a sticker, parking in a faculty spot) is $10, if you pay in cash at Security. If you let the ticket sit, at the end of the semester RDOT takes $15 out of your breakage fee (tax) for each ticket. Tickets can be appealed by students through a board that is chaired by students, however, fewer than ten percent of all tickets are revoked.
 
@@ -513,7 +513,7 @@ Of the three, doing your wash at home is the best idea, for you don't have to ca
 
 Going to a commercial laudromat is your next best bet, whether you live on campus or not. if you have a car, then several places are available to you, the best being A-1 Wash, on 15th Street, beside the Copper Mug and Arrow Cash Market. They charge 85 cents for a wash and 25 cents for each 12 minutes in a large dryer. A typical load will cost $1.35 to wash. They also have a drop off service, for a little more, where one of their employees will wash your clothes for you, and have them ready by the evening. The advantages of these places are only obvious when compared with on-campus facilities.
 
-As for on-campus washing, _Not the Handbook_ can only offer you some advice and our best wishes. The biggest problem with on-campus laundry facilities is that they are poorly maintained. When machines break, it usually takes weeks for the Office of Housing to fix them. This is partially due to the paperwork, and partially because few students report problems quickly, because no way to report problems has been made available to them. Although both the campus and the professional machines take 20 minutes for a load, the professional machines generally can do more laundry with less detergent. If these aren't enough aggravation, the driers don't. Most of the time they are filled with lint, and the heating elements are near failure. However, by far the most aggravating thing about on-campus washing is that when a machine eats one of the silly plastic tickets they use for money, you have to go to the Housing Office to get a refund, amid lots of paperwork. If you are out of tickets, \`\`you go hungry'' as the saying goes.
+As for on-campus washing, _Not the Handbook_ can only offer you some advice and our best wishes. The biggest problem with on-campus laundry facilities is that they are poorly maintained. When machines break, it usually takes weeks for the Office of Housing to fix them. This is partially due to the paperwork, and partially because few students report problems quickly, because no way to report problems has been made available to them. Although both the campus and the professional machines take 20 minutes for a load, the professional machines generally can do more laundry with less detergent. If these aren't enough aggravation, the driers don't. Most of the time they are filled with lint, and the heating elements are near failure. However, by far the most aggravating thing about on-campus washing is that when a machine eats one of the silly plastic tickets they use for money, you have to go to the Housing Office to get a refund, amid lots of paperwork. If you are out of tickets, "you go hungry" as the saying goes.
 
 Survival at the Tute
 --------------------
@@ -524,7 +524,7 @@ At RPI, the problems of life and death are very central to every student's menta
 
 #### Birth Control at Rensselaer
 
-Birth control at RPI is very much in effect, but is not appreciated in its simplest form by the students who practice it, for some very obvious reasons. Basically, they don't like it. In its simplest form, RPI birth control is implemented by what most students call the \`\`Rensselaer Ratio.'' Its logic runs along these lines:
+Birth control at RPI is very much in effect, but is not appreciated in its simplest form by the students who practice it, for some very obvious reasons. Basically, they don't like it. In its simplest form, RPI birth control is implemented by what most students call the "Rensselaer Ratio." Its logic runs along these lines:
 
 _If you don't have sex, you can't have babies._
 
@@ -532,19 +532,19 @@ Of course this has several different variations in real life. Some people simply
 
 Rensselaer has a fairly serious problem when it comes to sexual equality. With a ratio of men to women of 5:1, it seems clear that the women are seriously, almost dangerously, outnumbered. This is in fact the case. RPI men seem, on the outset, to be rather shy and unsure of themselves when it comes to dealing with the opposite sex, but the young women who come here have (again, for the most part) considerably less experience with the opposite sex. The men who arrive at RPI have generally had bad experiences with dating; they may have been rejected due to their excessively high grades in high school, or they may have given up all hope of ever meeting a girl with whom they could have an intelligent conversation. In any event, they have not yet entered the race for dates when they get here. As a result, they are invariably sexually immature. This condition generally heals with time, as they are finally exposed to girls who can accept their awkwardness, and who have some of their own. However, at the outset, there is a certain amount of trouble.
 
-Possessiveness is a mania at Rensselaer. The men dearly hang on to relationships for fear of being left out in the cold, while the women fight constantly for breathing space. Your typical RPI guy suspects everyone is trying to pry \`\`his girlfriend'' away from him, and often because of this, he drives the poor girl insane with his jealousy. Often this jealousy is founded merely on the fact that the fellow is totally outnumbered by his girlfriend's other \`\`platonic'' male friends. This is just the way life is at RPI, and the sooner the men adjust to it, the smoother their relations go.
+Possessiveness is a mania at Rensselaer. The men dearly hang on to relationships for fear of being left out in the cold, while the women fight constantly for breathing space. Your typical RPI guy suspects everyone is trying to pry "his girlfriend" away from him, and often because of this, he drives the poor girl insane with his jealousy. Often this jealousy is founded merely on the fact that the fellow is totally outnumbered by his girlfriend's other "platonic" male friends. This is just the way life is at RPI, and the sooner the men adjust to it, the smoother their relations go.
 
 RPI women, with very few exceptions, find themselves inundated with young men, all of whom want great amounts of attention and intimacy from the few women that there are. This feast among the women often leads to some very unfortunate results.
 
-Most RPI women have just graduated from a high school where the ratio more closely approached 1:1, and where they were considered to be \`\`greasy grinds'' because of their high grades. Because of these two factors, they were rarely asked out on dates and few have had boyfriends during high school. Upon arriving at RPI, they suddenly change from being passed over on Friday nights to being asked out quite a lot. The sudden arrival of a veritable flock of admirers, while it is no doubt what the woman has been dreaming of all during high school, becomes a very severe drain on her energy and often lead to a mental state very similar to burnout. This is no fun for anybody, least of all the young woman, who feels that if she sees another earnest, caring, male face, she will scream, or start killing people, or some such insanity.
+Most RPI women have just graduated from a high school where the ratio more closely approached 1:1, and where they were considered to be "greasy grinds" because of their high grades. Because of these two factors, they were rarely asked out on dates and few have had boyfriends during high school. Upon arriving at RPI, they suddenly change from being passed over on Friday nights to being asked out quite a lot. The sudden arrival of a veritable flock of admirers, while it is no doubt what the woman has been dreaming of all during high school, becomes a very severe drain on her energy and often lead to a mental state very similar to burnout. This is no fun for anybody, least of all the young woman, who feels that if she sees another earnest, caring, male face, she will scream, or start killing people, or some such insanity.
 
-The syndrome is known as \`\`puppy-dog-ism,'' because of all the male puppy dogs wagging their tails, sniffing up the poor girl's skirts, and wanting miscellaneous attentions. Puppy-dogs are notorious for doing homework, hanging around the dorm at all hours, and for staring at the object of their puppy-dog-ism for hours.
+The syndrome is known as "puppy-dog-ism," because of all the male puppy dogs wagging their tails, sniffing up the poor girl's skirts, and wanting miscellaneous attentions. Puppy-dogs are notorious for doing homework, hanging around the dorm at all hours, and for staring at the object of their puppy-dog-ism for hours.
 
 Another more difficult problem is unwanted pregnancies. These are also a spinoff of social immaturity, resulting from not being aware of birth control or just taking risks. Pregnancies among freshmen women are rather high at RPI, peaking around 10 percent of the freshman women within the first two months of their freshman year.
 
 #### _The Unabridged Purity Test_
 
-Answer each question with a \`\`yes'' or a \`\`no.'' You score one point for each \`\`no.'' The higher the score, the greater the personal purity rating.
+Answer each question with a "yes" or a "no." You score one point for each "no." The higher the score, the greater the personal purity rating.
 
 _Section 1:_
 
@@ -855,7 +855,7 @@ There are several movie theater chains in the area, including the national ones 
 
 The most important thing to know about the local theaters is whether or not they have student discounts. United Artists and Hellman theaters have student discounts. The Crossgates Mall Cinema also offers a student discount ($3.50) for its evening shows. The Colonie (Northway) Cine 1..8 theater offers no student discount, and isn't a very appealing theater for doing so.
 
-Three theaters in the area are not your typical show house. Specializing in \`\`sleeper,'' \`\`artistic,'' or just off beat films, the Spectrum Theater, 3rd Street Theater, and Images Cinema are a real delight for the avant-garde film fan. Of the three, Third Street is the smallest theater, which can be a problem when arriving late for a show. Arrive early to get seats together, if at all. The Spectrum is run by the Third Street management, but concentrates on more \`\`major'' films than its counterpart, and shows these films for longer runs. Images, which is in Williamstown, Mass, shows an occasional big seller film along with more avant-garde fare. All of the theaters offer natural foods instead of the usual junk food one finds in movie concession stands. Of course, the concessions aren't any cheaper.
+Three theaters in the area are not your typical show house. Specializing in "sleeper," "artistic," or just off beat films, the Spectrum Theater, 3rd Street Theater, and Images Cinema are a real delight for the avant-garde film fan. Of the three, Third Street is the smallest theater, which can be a problem when arriving late for a show. Arrive early to get seats together, if at all. The Spectrum is run by the Third Street management, but concentrates on more "major" films than its counterpart, and shows these films for longer runs. Images, which is in Williamstown, Mass, shows an occasional big seller film along with more avant-garde fare. All of the theaters offer natural foods instead of the usual junk food one finds in movie concession stands. Of course, the concessions aren't any cheaper.
 
 Most of the theaters in the Capital District are concentrated in or near Albany. In the downtown area are the Spectrum (just up Delaware Street; take the Madison Ave. exit on 787 south and turn left at Lark Street, onto Delaware.) and the Madison (keep going up Madison Ave. past Lark Street for several blocks). Across the river in Rensselaer is the 3rd Street Theater (take I-90 east toward Boston, exit on Washington Street, follow signs to Amtrak station, turn left at the gas station a block before the bottom of the hill).
 
@@ -905,7 +905,7 @@ Colsons --- State at Pearl, Albany. Largest collection of magazines and newspape
 
 Earthworld Comics --- 327 Central Avenue, Albany. Lower grade collection of comics than FantaCo, but has lots of older copies.
 
-Electric City Comics --- Schenectady. Wide and diverse selection of new and old comics, \`\`SciFi'' books, and back issues of _Playboy_ magazines. Find one for the year you were born, it's a riot!
+Electric City Comics --- Schenectady. Wide and diverse selection of new and old comics, "SciFi" books, and back issues of _Playboy_ magazines. Find one for the year you were born, it's a riot!
 
 #### Malls
 
@@ -913,7 +913,7 @@ Crossgates Mall --- The undisputed king of area malls, and source of predictions
 
 Colonie Mall --- The previous champion of the area malls, Colonie was the only bi-level mall until Crossgates. There is less at Colonie in the way of shoe shops, but it does have a newly refurbished Sears, Roebuck Co. store and also a Macy's, the classiest store in any area mall. The UA Towne Central, RKO Fox, and the Cine 1..8 theaters are located within a few hundred meters of this mall.
 
-Latham Circle Mall --- This \`\`mall'' started life as an outdoor shopping center, which was later enclosed to accomodate the new mall concept. While claiming nothing special, the Circle does have a Boston Store and two video arcades, side by side, which in the past have had price wars. The most redeming feature of the Circle is that it is the closest mall in the area to Troy, excepting the Uncle Sam Atrium.
+Latham Circle Mall --- This "mall" started life as an outdoor shopping center, which was later enclosed to accomodate the new mall concept. While claiming nothing special, the Circle does have a Boston Store and two video arcades, side by side, which in the past have had price wars. The most redeming feature of the Circle is that it is the closest mall in the area to Troy, excepting the Uncle Sam Atrium.
 
 Mohawk Mall --- Schenectady's own mall, this thing is long and twisty. Way the hell out on Route 7, unless you happen to live in Schenectady.
 
@@ -927,13 +927,13 @@ A note about most of the malls mentioned above. Almost all have a Radio Shack, a
 
 #### Parks
 
-Troy has two main parks, Prospect Park and the Hudson River Front Park. Prospect Park is the large fenced off park just south of Congress street, starting at 13th street and running down to 8th. It contains a public pool, some small outdoor cooking facilities, and an incredible view of downtown Troy at night. A great place to go \`\`park,'' but the density of Troy residents, mostly high schoolers, is alarming.
+Troy has two main parks, Prospect Park and the Hudson River Front Park. Prospect Park is the large fenced off park just south of Congress street, starting at 13th street and running down to 8th. It contains a public pool, some small outdoor cooking facilities, and an incredible view of downtown Troy at night. A great place to go "park," but the density of Troy residents, mostly high schoolers, is alarming.
 
 #### Areas of Special Interest
 
 There are a few areas of special interest in the Capital District, if only for their peculiar nature or interest to the enlightened college student.
 
-Foremost among these places is the central area of Downtown Albany. This area encompasses the Empire State Plaza, Robinson Square, Lark Street, and State Street. The Empire Plaza is the five large skyscrapers (the big one with the four children) that can be clearly seen from I-787, Rensselaer, and even RPI (on a clear day). The Plaza, also known as \`\`Rockefeller's Last Erection,'' has a huge park built on the top of it. There is another Rickey sculpture there, \`\`Two Lines Oblique,'' which is also known as the \`\`Needletoid.'' The New York State Museum, Capitol Building, and other government offices are located nearby. Behind the Plaza is Robinson Square, a collection of small artistic shops that sell novelty items centered around major themes. Up the street is Lark Street, another collection of boutiques and art shops, which is home to a large new-wave/punk culture in Albany. 288 Lark Street is the most popular new-wave/punk nightclub in the area, and features local and national bands regularly.
+Foremost among these places is the central area of Downtown Albany. This area encompasses the Empire State Plaza, Robinson Square, Lark Street, and State Street. The Empire Plaza is the five large skyscrapers (the big one with the four children) that can be clearly seen from I-787, Rensselaer, and even RPI (on a clear day). The Plaza, also known as "Rockefeller's Last Erection," has a huge park built on the top of it. There is another Rickey sculpture there, "Two Lines Oblique," which is also known as the "Needletoid." The New York State Museum, Capitol Building, and other government offices are located nearby. Behind the Plaza is Robinson Square, a collection of small artistic shops that sell novelty items centered around major themes. Up the street is Lark Street, another collection of boutiques and art shops, which is home to a large new-wave/punk culture in Albany. 288 Lark Street is the most popular new-wave/punk nightclub in the area, and features local and national bands regularly.
 
 Classroom Facilities
 --------------------
@@ -960,7 +960,7 @@ The Carnegie Building is another of the favorite haunts of the various Humanitie
 
 The basement, where some psychology courses (notably Sensation and Perception) have lab classes, are very different. The tables are covered with metal, and have little ridges along the edges; this is intended to make them more useful for experiments involving dissection. The main thing that this means to the student is that there will be no place where it is safe to rest his arms during class, and no real way to take notes or tests. The basement is also pretty well equipped with Roach Motels; we will let you draw whatever conclusions you like from that.
 
-One of the most interesting features of the Carnegie Building is that it has no rest rooms. Yes, they are there, all of the campus buildings have them, but in Carnegie, they are all locked, available only to the people who work in the offices. If you suddenly \`\`feel the urge,'' as it is sometimes called, and you are in Carnegie, you lose.
+One of the most interesting features of the Carnegie Building is that it has no rest rooms. Yes, they are there, all of the campus buildings have them, but in Carnegie, they are all locked, available only to the people who work in the offices. If you suddenly "feel the urge," as it is sometimes called, and you are in Carnegie, you lose.
 
 ### The Walker Labs
 
@@ -988,7 +988,7 @@ Anyway. The main reason that Amos Eaton is so well populated is that it has a ve
 
 ![](https://web.archive.org/web/20160809181640im_/http://deltosfleet.smugmug.com/Travel/RPI-2012/i-wXMBPWb/0/S/DSC0144-S.jpg)
 
-The Russell Sage Labs have just been rebuilt, because they were pretty much falling apart inside. Now, the inside is a mixture of Modern Hideous and Archaic Leftover, somewhat indiscriminately mixed together. If you have any artistic sense at all, you will probably be apalled at the mess called \`\`interior design'' in this building. One of the more hideous creations fills a certain amount of empty space on the fourth floor; it consists of an entire model house, including windows and doors.
+The Russell Sage Labs have just been rebuilt, because they were pretty much falling apart inside. Now, the inside is a mixture of Modern Hideous and Archaic Leftover, somewhat indiscriminately mixed together. If you have any artistic sense at all, you will probably be apalled at the mess called "interior design" in this building. One of the more hideous creations fills a certain amount of empty space on the fourth floor; it consists of an entire model house, including windows and doors.
 
 The Lecture Hall has been renovated; it is now very much heavier on the audio-visual equipment than it ever was before, and it also now has real seats. The desks are still miniscule, making this not a very good room to take tests in; and the roof leaks in places, making rainy day classes very much a game of Aqua Roulette.
 
@@ -1039,13 +1039,13 @@ Some of the building has been modernized; most has not. The park benches with de
 
 The Communications Center was originally called the Modern Classroom Facility. It was designed to be a model of what classrooms should be like, and still almost fits the bill. There are three types of classrooms in the building: large, small, and bizarre.
 
-The large classrooms are CC 308, 318, 324, and 330. These are all outfitted with lots of very bright lights, fairly large stage areas for demonstrations, a railing at the bottom to protect the lecturer, and huge amounts of audio-visual equipment. Or rather, they were supposed to be outfitted with huge amounts of audio-visual gear, but they weren't. The story behind that is as follows: Clay P. Bedford, after whom CC308 is officially named, donated enough money to equip CC308 with A/V gear. The Tute said, \`\`Thank you very much,'' and started looking around for more donors to outfit the rest of the CC. However, none were forthcoming. So, half of the A/V gear which had already been installed in CC308 was ripped out, and spread around the rest of the CC. This provided barely enough equipment for all the rooms other than CC308. The Administration does not want to remove any more equipment from 308, because it is their showcase classroom.
+The large classrooms are CC 308, 318, 324, and 330. These are all outfitted with lots of very bright lights, fairly large stage areas for demonstrations, a railing at the bottom to protect the lecturer, and huge amounts of audio-visual equipment. Or rather, they were supposed to be outfitted with huge amounts of audio-visual gear, but they weren't. The story behind that is as follows: Clay P. Bedford, after whom CC308 is officially named, donated enough money to equip CC308 with A/V gear. The Tute said, "Thank you very much," and started looking around for more donors to outfit the rest of the CC. However, none were forthcoming. So, half of the A/V gear which had already been installed in CC308 was ripped out, and spread around the rest of the CC. This provided barely enough equipment for all the rooms other than CC308. The Administration does not want to remove any more equipment from 308, because it is their showcase classroom.
 
 The desks are all bright yellow plastic bucket seats, which are individually bolted to the floor, and have large swing-up desk surfaces. There are projection booths at the back of the rooms to allow films, slides, and anything else to be shown to the gathered populace. There are, of course, no windows.
 
 The small classrooms are down on the second floor. These rooms all started out having desks that were modeled after the ones in the large classrooms, with comfortable (albeit sweaty) seats and large writing surfaces. However, these did not last, and have been largely replaced by the standard-issue Tute desk, which has a much smaller writing surface. These rooms are small enough to be useful, and so are not very highly regarded by the Administration; they are outfitted with the bare minimum of A/V gear. Every pair of these rooms shares a single projection booth which has in many cases been set aside and converted to offices or laboratories for our less-distinguished professors.
 
-There is only one of the bizarre classrooms in the building: CC 337, or the \`\`case study room,'' as the building plans call it. This room is set up as a large number of chairs gathered around a semi-circular stage, and arrayed so that up to 116 students can peer down at whoever or whatever is displayed on the stage. This tends to make professors nervous. In any event, this room is one of the better ones to have classes in. The chairs are arrayed behind long tables, thus allowing simply incredible amounts of desktop space for each student. The chairs recline and swivel, giving the student something to do to take his mind off the bletchfulness of the class. (Don't laugh, you'll find yourself doing it, too.) The chairs are very comfortable: it seems that, since they recline, they had to be made stronger than the other chairs in the CC. The material these chairs are made out of seems to be much more porous than any other chairs on the entire campus.
+There is only one of the bizarre classrooms in the building: CC 337, or the "case study room," as the building plans call it. This room is set up as a large number of chairs gathered around a semi-circular stage, and arrayed so that up to 116 students can peer down at whoever or whatever is displayed on the stage. This tends to make professors nervous. In any event, this room is one of the better ones to have classes in. The chairs are arrayed behind long tables, thus allowing simply incredible amounts of desktop space for each student. The chairs recline and swivel, giving the student something to do to take his mind off the bletchfulness of the class. (Don't laugh, you'll find yourself doing it, too.) The chairs are very comfortable: it seems that, since they recline, they had to be made stronger than the other chairs in the CC. The material these chairs are made out of seems to be much more porous than any other chairs on the entire campus.
 
 What this all boils down to is that, generally, the CC is, as it was designed to be, the best place to have classes on the entire campus. And CC 337 is better than any other room in the CC.
 
@@ -1100,7 +1100,7 @@ In it's heyday, the _Unicorn_ was one of the funniest and most daring RPI public
 
 #### _The Polemic_
 
-The _Pole_ is a non-Union funded publication that was started by several students living in the E-Dorms in the Fall of 1980. The originators, two 15-year-old freshmen, calling themselves the \`\`Wiltsie Boatworks,'' had just finished winning the Hudson River Celebration Boat Contest, and decided to start a lampoon of the _Polytechnic_. Using clippings of Poly stories, they reworded stories in humorous and (usually) non-scathing ways. The _Pole_ has steadfastly resisted Union monies, noting that the editorial control the E-Board would have would destroy their humorous impact.
+The _Pole_ is a non-Union funded publication that was started by several students living in the E-Dorms in the Fall of 1980. The originators, two 15-year-old freshmen, calling themselves the "Wiltsie Boatworks," had just finished winning the Hudson River Celebration Boat Contest, and decided to start a lampoon of the _Polytechnic_. Using clippings of Poly stories, they reworded stories in humorous and (usually) non-scathing ways. The _Pole_ has steadfastly resisted Union monies, noting that the editorial control the E-Board would have would destroy their humorous impact.
 
 The freshmen both failed out after one semester.
 
@@ -1138,9 +1138,9 @@ Probably the most misunderstood club on campus, _Radio Rensselaer_ is the studen
 
 The reasons for this are simple. First, WRPI is a ten thousand watt FM radio station, which has a vested interest in serving the entire Albany, Troy, and Schenectady areas, and _not_ just a college radio station. Thus, WRPI must stay on the air during times when students are not around. These times can be summarized as Vacation and Summer. It is during those times that the non-student members of the station are so critical. The second reason that non-students are critical to the operation of WRPI is that very, very few RPI students are willing to make the kind of time commitment that working at WRPI involves. In other words, they can't get enough students to save their lives.
 
-Another area of WRPI that is grossly misunderstood is its airsound. Students at RPI do not understand why \`\`their'' radio station doesn't play the same Top 40 music that they are accustomed to hearing. The reason, again, is two fold. First, the local commercial stations already do this, and would quickly lose their business (advertising) if WRPI started tearing their audience away from them. Second, WRPI is pledged to be an \`\`educational'' station. The goal of WRPI's airsound is simple: to play new and progressive music. This usually means music which is not commerically pushed as it is on other stations. The education comes in learning about music that one would normally never get to hear on commercial radio.
+Another area of WRPI that is grossly misunderstood is its airsound. Students at RPI do not understand why "their" radio station doesn't play the same Top 40 music that they are accustomed to hearing. The reason, again, is two fold. First, the local commercial stations already do this, and would quickly lose their business (advertising) if WRPI started tearing their audience away from them. Second, WRPI is pledged to be an "educational" station. The goal of WRPI's airsound is simple: to play new and progressive music. This usually means music which is not commerically pushed as it is on other stations. The education comes in learning about music that one would normally never get to hear on commercial radio.
 
-There are lots of things to do at WRPI besides doing a show. All of the electronic equipment in the studio and at the transmitter must be maintained by the members of WRPI. This is a great opportunity for aspiring EE's to get some real experience. The News Deparment is always looking for people to help with news announcing, and to work on a campus news show. There are lots of administrative tasks which have to be done, from checking opertions logs to sifting through Public Service Announcements for airplay. There is a production studio with multi-track recording capabilities being installed (again, by students) that will be used to record local bands. Remotes are a great way to go public and \`\`spin tunes.'' Serious Troy Music Hall fans can get involved with WRPI sponsored concert recordings, using state of the art digital equipment.
+There are lots of things to do at WRPI besides doing a show. All of the electronic equipment in the studio and at the transmitter must be maintained by the members of WRPI. This is a great opportunity for aspiring EE's to get some real experience. The News Deparment is always looking for people to help with news announcing, and to work on a campus news show. There are lots of administrative tasks which have to be done, from checking opertions logs to sifting through Public Service Announcements for airplay. There is a production studio with multi-track recording capabilities being installed (again, by students) that will be used to record local bands. Remotes are a great way to go public and "spin tunes." Serious Troy Music Hall fans can get involved with WRPI sponsored concert recordings, using state of the art digital equipment.
 
 ### Athletics
 
@@ -1193,7 +1193,7 @@ Items like spare Duracels or even porta-ble electric generators work well.
 
 **Crib Sheet.**
 
-This can be loosely identified as notes for an \`\`open book'' test, but we advise against carrying into a test any textbook unless the course is Assembler, in which case the description of the entire IBM 360/70 instruction set might be slightly useful. If it's for a course like Physics I, bring a magnifying glass so you can read what you microprinted the night before.
+This can be loosely identified as notes for an "open book" test, but we advise against carrying into a test any textbook unless the course is Assembler, in which case the description of the entire IBM 360/70 instruction set might be slightly useful. If it's for a course like Physics I, bring a magnifying glass so you can read what you microprinted the night before.
 
 **A Picture of an Authoritative Intellectual.**
 
@@ -1209,7 +1209,7 @@ Brain food aside, a cold soda and munchies help take your mind off of test-death
 
 **Small Portable TA.**
 
-This works best on tests that are open book, and the instructor has foolishly acknowledged that \`\`anything you can carry into the test, you can use.'' A real fight starter. After all, your peers will all want to borrow your TA.
+This works best on tests that are open book, and the instructor has foolishly acknowledged that "anything you can carry into the test, you can use." A real fight starter. After all, your peers will all want to borrow your TA.
 
 **Drugs.**
 
@@ -1250,7 +1250,7 @@ On the cliff overlooking the Walker Lab.
 
 **The New Playhouse.**
 
-Even the Players don't like the new look of their art-deco \`\`barn.''
+Even the Players don't like the new look of their art-deco "barn."
 
 **Hudson River Fountain.**
 
@@ -1313,11 +1313,11 @@ Tute Speak
 
 What part of the student's life is not influenced by how that student communicates? Even the Institute has recognized the need for its student body to be more literate. Therefore, it is to this end that the following glossary of the language that is spoken at RPI is provided to those holding this book.
 
-One will note, however, that the words contained herein are not spoken anywhere else, save for the bowels of IBM or at a social gathering at MIT. Still, it is essential to be able to understand your fellow man at lunch when he tells you that his HP-41CX has crashed and that his last APL project has de-rezed, in the hopes that you will offer some sympathy. Be warned that many of the words contained are not of a delicate nature, and that if you are offended by phrases such as \`\`Wankel Rotary Engine,'' you shouldn't be reading this anyway.
+One will note, however, that the words contained herein are not spoken anywhere else, save for the bowels of IBM or at a social gathering at MIT. Still, it is essential to be able to understand your fellow man at lunch when he tells you that his HP-41CX has crashed and that his last APL project has de-rezed, in the hopes that you will offer some sympathy. Be warned that many of the words contained are not of a delicate nature, and that if you are offended by phrases such as "Wankel Rotary Engine," you shouldn't be reading this anyway.
 
 **Ack**
 
-exp. Equivalent to \`\`gag.''
+exp. Equivalent to "gag."
 
 **ACM**
 
@@ -1345,7 +1345,7 @@ n. Something that can be put anywhere for any reason and not harmfully affect th
 
 **B-Vector**
 
-n. Bullshit. No, really. Symbolized by the \`\`Right Hand Rule,'' see Halliday and Resnick for the formal definition.
+n. Bullshit. No, really. Symbolized by the "Right Hand Rule," see Halliday and Resnick for the formal definition.
 
 **BARH**
 
@@ -1361,15 +1361,15 @@ n. A main staple of the Rensselaer Diet.
 
 **Blarm**
 
-exp. (RPI) A more serious version of alarm, not to be confused with \`\`Be Like A Real Man.''
+exp. (RPI) A more serious version of alarm, not to be confused with "Be Like A Real Man."
 
 **Blast**
 
-v. To be forced off MTS by the operator, owing to some \`\`fatal'' computer error.
+v. To be forced off MTS by the operator, owing to some "fatal" computer error.
 
 **Blech**
 
-exp. A sound of disgust. --- adj. --- blecherous. To be disgusting. Also spelled \`\`Bletch'' and \`\`Bletcherous.''
+exp. A sound of disgust. --- adj. --- blecherous. To be disgusting. Also spelled "Bletch" and "Bletcherous."
 
 **Blow Away**
 
@@ -1409,7 +1409,7 @@ n. The nerd-food restaurant in the Folsom Library.
 
 **Chopper**
 
-n. (RPI) The ubiquitous supermarket of the Capital District and all-time favorite food store for RPI students. Also called \`\`Price Gouger'' or \`\`Price Hacker.''
+n. (RPI) The ubiquitous supermarket of the Capital District and all-time favorite food store for RPI students. Also called "Price Gouger" or "Price Hacker."
 
 **Chrinitoid**![](/web/20160809181640im_/http://www.deltos.com/images/widgets/picture.gif)
 
@@ -1429,7 +1429,7 @@ n. Sedentary lifeform most prevalent on low slung sofas and lounges around the c
 
 **Crash**
 
-v. The act of Sibyl going to sleep, or as most Comp Sci's put it, \`\`going down.'' --- n. You'll know Him when you meet Him.
+v. The act of Sibyl going to sleep, or as most Comp Sci's put it, "going down." --- n. You'll know Him when you meet Him.
 
 **Critter**
 
@@ -1465,7 +1465,7 @@ adj. Incorrect to the point of humorous.
 
 **FCN**
 
-n. F\*cking Computer Nerd (one of the few cases in which \`\`nerd'' is preferred to \`\`knurd'' because \`\`FCK'' is too similar to a very favorite word of all RPI students). Not uncommon for this type to be verbally fluent in Fortran or Assembler.
+n. F\*cking Computer Nerd (one of the few cases in which "nerd" is preferred to "knurd" because "FCK" is too similar to a very favorite word of all RPI students). Not uncommon for this type to be verbally fluent in Fortran or Assembler.
 
 **Feh**
 
@@ -1485,11 +1485,11 @@ n. (Niven) Sea-bottom ooze; very fine, fertile mud which is useful for gardens a
 
 **FOAD**
 
-n., acronym. \`\`F\*ck Off And Die.''
+n., acronym. "F\*ck Off And Die."
 
 **FOAD Letter**
 
-n. A letter from a company which says, \`\`We liked your resume, and had a real good time laughing at it, and we don't want to hire you now, but (chuckle) please (snort) try again (hee, hee) later. (Haw, haw, haw!)'' Usually received at the end of your senior year, and whenever you apply for a co-op or a summer job. Most RPI seniors receive five or six of them.
+n. A letter from a company which says, "We liked your resume, and had a real good time laughing at it, and we don't want to hire you now, but (chuckle) please (snort) try again (hee, hee) later. (Haw, haw, haw!)" Usually received at the end of your senior year, and whenever you apply for a co-op or a summer job. Most RPI seniors receive five or six of them.
 
 **Foo**
 
@@ -1573,11 +1573,11 @@ n., acronym. Keep it Simple, Stupid.
 
 **Kludge**
 
-n. Any alteration or assemblage which takes advantage of faulty rules or organization. --- v. To fix in a temporary way (note: long \`\`u'' as in \`\`nUke'').
+n. Any alteration or assemblage which takes advantage of faulty rules or organization. --- v. To fix in a temporary way (note: long "u" as in "nUke").
 
 **Knurd**
 
-n. One who studies intensively, but only for practical reasons, such as an exam tomorrow. Preferred to \`\`nerd'' due to it's nature of being reversible into another useful word.
+n. One who studies intensively, but only for practical reasons, such as an exam tomorrow. Preferred to "nerd" due to it's nature of being reversible into another useful word.
 
 **Lab Report**
 
@@ -1601,7 +1601,7 @@ n. (RPI) The RPI Players main hideout, the 15th Street Playhouse, as it is refer
 
 **Love Canal**
 
-n. The \`\`temporary'' pathway along the '86 Field, which turns into some kind of toxic sludge whenever Troy rains or snows (which is far too frequent). Don't slip and fall into it.
+n. The "temporary" pathway along the '86 Field, which turns into some kind of toxic sludge whenever Troy rains or snows (which is far too frequent). Don't slip and fall into it.
 
 **Metroland**
 
@@ -1625,7 +1625,7 @@ n. A variable word pertaining to any noun, object or thing.
 
 **MUNG**
 
-v., acronym. A recursive word, meaning \`\`MUNG Until No Good.''
+v., acronym. A recursive word, meaning "MUNG Until No Good."
 
 **Myron**
 
@@ -1649,7 +1649,7 @@ n. (RPI) Abbreviation for Niagara Mohawk, the Troy power company.
 
 **No Op**
 
-n. Someone or thing that does nothing useful. --- v. To waste time by \`\`slugging off.'' To ignore something.
+n. Someone or thing that does nothing useful. --- v. To waste time by "slugging off." To ignore something.
 
 **Nuke**
 
@@ -1661,7 +1661,7 @@ n. The device resembling a terminal in any RPI-provided kit-chen, it is used to 
 
 **Opus**
 
-n. The existential penguin in \`\`Bloom County,'' a comic strip that can only be found in _The Boston Globe_, and occasionally in _The Poly._
+n. The existential penguin in "Bloom County," a comic strip that can only be found in _The Boston Globe_, and occasionally in _The Poly._
 
 **Organic Waste Products**
 
@@ -1677,11 +1677,11 @@ v. The act of convincing your parents that the $15K a year spent on your lifesup
 
 **Party**
 
-n. A social gathering with a goal of mixed group interrelating, drinking, etc. --- v. To enjoy the company of others and not be involved in studying. --- adj. To be desirable to have at a party (e.g. \`\`He's quite a party guy'').
+n. A social gathering with a goal of mixed group interrelating, drinking, etc. --- v. To enjoy the company of others and not be involved in studying. --- adj. To be desirable to have at a party (e.g. "He's quite a party guy").
 
 **Pass-Punt**
 
-n. One of the options available to a Tute student. A class on Pass-Punt does not count against you if you fail or do poorly; it also does not help your GPA even if you do incredibly well. Officially called \`\`Pass-No Credit.''
+n. One of the options available to a Tute student. A class on Pass-Punt does not count against you if you fail or do poorly; it also does not help your GPA even if you do incredibly well. Officially called "Pass-No Credit."
 
 **Perf**
 
@@ -1693,7 +1693,7 @@ n. (RPI) The avant-garde actors' troupe on the RPI campus composed of mostly stu
 
 **Polemic**
 
-n. (RPI) The independent, student financed, somewhat-bi-weekly spoof of the Institute's newspaper, the _Polytechnic_. Otherwise known as \`\`Not the Poly.''
+n. (RPI) The independent, student financed, somewhat-bi-weekly spoof of the Institute's newspaper, the _Polytechnic_. Otherwise known as "Not the Poly."
 
 **Power Tool**
 
@@ -1729,7 +1729,7 @@ adj. To be diverse in nature.
 
 **RAHP**
 
-n., acronym. (RPI) Rensselaer Apartment Housing Project, is better known as the Alpha Phi Omega fraternity \`\`house.''
+n., acronym. (RPI) Rensselaer Apartment Housing Project, is better known as the Alpha Phi Omega fraternity "house."
 
 **Real Time**
 
@@ -1745,7 +1745,7 @@ n. The Known Universe.
 
 **Reality Check**
 
-n. The act of leaping up once to see if one will still fall Earthward under the influence of gravity. Also known as \`\`Gravity Check.''
+n. The act of leaping up once to see if one will still fall Earthward under the influence of gravity. Also known as "Gravity Check."
 
 **Recursive**
 
@@ -1761,7 +1761,7 @@ n. To gather a group of friends together in a car and get out of Troy.
 
 **Sagie**
 
-n. (RPI) A student of Russell Sage College, who is typified (by RPI men) as a slightly overweight \`\`MRS'' degree candidate.
+n. (RPI) A student of Russell Sage College, who is typified (by RPI men) as a slightly overweight "MRS" degree candidate.
 
 **Scalar**
 
@@ -1773,7 +1773,7 @@ v. To take repetitively until none is left.
 
 **Self Screw**
 
-n. (RPI) A particular mutation of RPI's regular curriculum in which students are given the responsibility of administering the Tute Screw to themselves. Sometimes called \`\`Self Abuse.''
+n. (RPI) A particular mutation of RPI's regular curriculum in which students are given the responsibility of administering the Tute Screw to themselves. Sometimes called "Self Abuse."
 
 **Sibyl**
 
@@ -1809,11 +1809,11 @@ n. Naval ROTC type.
 
 **\*.\***
 
-n. Anything and everything (pronounced \`\`star-dot-star'').
+n. Anything and everything (pronounced "star-dot-star").
 
 **Starting Salary**
 
-n. A buzzword prevalent around the end of the spring semes-ter, it is a common method of rating the \`\`value'' of one's diploma.
+n. A buzzword prevalent around the end of the spring semes-ter, it is a common method of rating the "value" of one's diploma.
 
 **Stu-Gov**
 
@@ -1849,7 +1849,7 @@ n. (RPI) One of many shorter versions of RPI's name, devised to help students wh
 
 **Tute Screw**
 
-n. (RPI) To quote the _Rensselaer Student Handbook_, \`\`A peculiar device ... whichever way you turn it, it goes in.''
+n. (RPI) To quote the _Rensselaer Student Handbook_, "A peculiar device ... whichever way you turn it, it goes in."
 
 **Twink**
 
@@ -1865,11 +1865,11 @@ n. A computer programmer who believes everything you tell him.
 
 **VCC**
 
-n. (RPI, pronounced \`\`Vee-See-See'') The Voorhees Computing Center, often confused with the Chapel and Cultural Center as the seat of religious power on campus.
+n. (RPI, pronounced "Vee-See-See") The Voorhees Computing Center, often confused with the Chapel and Cultural Center as the seat of religious power on campus.
 
 **Vector**
 
-n. (1.) In mathematics, a one dimensional matrix. (2.) Someone who is falling off a tall building. Derives from the last cry of the falling body, \`\`I'm a vector!''
+n. (1.) In mathematics, a one dimensional matrix. (2.) Someone who is falling off a tall building. Derives from the last cry of the falling body, "I'm a vector!"
 
 **Whoosh**
 
@@ -1877,11 +1877,11 @@ n. Any vehicle capable of traveling faster than walking.
 
 **WRPI**
 
-n. (RPI) The campus 10-kilowatt radio station that can be found 91.5 MHz on your FM radio dial, which specializes in not specializing in music. Pronounced \`\`Whirpee.''
+n. (RPI) The campus 10-kilowatt radio station that can be found 91.5 MHz on your FM radio dial, which specializes in not specializing in music. Pronounced "Whirpee."
 
 **XA**
 
-n. A new version of MTS that became operational in the Fall 84 semester. Translated, it means \`\`Extended Aggravation.''
+n. A new version of MTS that became operational in the Fall 84 semester. Translated, it means "Extended Aggravation."
 
 **Za**
 

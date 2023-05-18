@@ -6,11 +6,11 @@ nav_order: 11
 
 What part of the student's life is not influenced by how that student communicates? Even the Institute has recognized the need for its student body to be more literate. Therefore, it is to this end that the following glossary of the language that is spoken at RPI is provided to those holding this book.
 
-One will note, however, that the words contained herein are not spoken anywhere else, save for the bowels of IBM or at a social gathering at MIT. Still, it is essential to be able to understand your fellow man at lunch when he tells you that his HP-41CX has crashed and that his last APL project has de-rezed, in the hopes that you will offer some sympathy. Be warned that many of the words contained are not of a delicate nature, and that if you are offended by phrases such as \`\`Wankel Rotary Engine,'' you shouldn't be reading this anyway.
+One will note, however, that the words contained herein are not spoken anywhere else, save for the bowels of IBM or at a social gathering at MIT. Still, it is essential to be able to understand your fellow man at lunch when he tells you that his HP-41CX has crashed and that his last APL project has de-rezed, in the hopes that you will offer some sympathy. Be warned that many of the words contained are not of a delicate nature, and that if you are offended by phrases such as "Wankel Rotary Engine," you shouldn't be reading this anyway.
 
 **Ack**
 
-exp. Equivalent to \`\`gag.''
+exp. Equivalent to "gag."
 
 **ACM**
 
@@ -38,7 +38,7 @@ n. Something that can be put anywhere for any reason and not harmfully affect th
 
 **B-Vector**
 
-n. Bullshit. No, really. Symbolized by the \`\`Right Hand Rule,'' see Halliday and Resnick for the formal definition.
+n. Bullshit. No, really. Symbolized by the "Right Hand Rule," see Halliday and Resnick for the formal definition.
 
 **BARH**
 
@@ -54,15 +54,15 @@ n. A main staple of the Rensselaer Diet.
 
 **Blarm**
 
-exp. (RPI) A more serious version of alarm, not to be confused with \`\`Be Like A Real Man.''
+exp. (RPI) A more serious version of alarm, not to be confused with "Be Like A Real Man."
 
 **Blast**
 
-v. To be forced off MTS by the operator, owing to some \`\`fatal'' computer error.
+v. To be forced off MTS by the operator, owing to some "fatal" computer error.
 
 **Blech**
 
-exp. A sound of disgust. --- adj. --- blecherous. To be disgusting. Also spelled \`\`Bletch'' and \`\`Bletcherous.''
+exp. A sound of disgust. --- adj. --- blecherous. To be disgusting. Also spelled "Bletch" and "Bletcherous."
 
 **Blow Away**
 
@@ -102,7 +102,7 @@ n. The nerd-food restaurant in the Folsom Library.
 
 **Chopper**
 
-n. (RPI) The ubiquitous supermarket of the Capital District and all-time favorite food store for RPI students. Also called \`\`Price Gouger'' or \`\`Price Hacker.''
+n. (RPI) The ubiquitous supermarket of the Capital District and all-time favorite food store for RPI students. Also called "Price Gouger" or "Price Hacker."
 
 **Chrinitoid**![](/web/20160809181640im_/http://www.deltos.com/images/widgets/picture.gif)
 
@@ -122,7 +122,7 @@ n. Sedentary lifeform most prevalent on low slung sofas and lounges around the c
 
 **Crash**
 
-v. The act of Sibyl going to sleep, or as most Comp Sci's put it, \`\`going down.'' --- n. You'll know Him when you meet Him.
+v. The act of Sibyl going to sleep, or as most Comp Sci's put it, "going down." --- n. You'll know Him when you meet Him.
 
 **Critter**
 
@@ -158,7 +158,7 @@ adj. Incorrect to the point of humorous.
 
 **FCN**
 
-n. F\*cking Computer Nerd (one of the few cases in which \`\`nerd'' is preferred to \`\`knurd'' because \`\`FCK'' is too similar to a very favorite word of all RPI students). Not uncommon for this type to be verbally fluent in Fortran or Assembler.
+n. F\*cking Computer Nerd (one of the few cases in which "nerd" is preferred to "knurd" because "FCK" is too similar to a very favorite word of all RPI students). Not uncommon for this type to be verbally fluent in Fortran or Assembler.
 
 **Feh**
 
@@ -178,11 +178,11 @@ n. (Niven) Sea-bottom ooze; very fine, fertile mud which is useful for gardens a
 
 **FOAD**
 
-n., acronym. \`\`F\*ck Off And Die.''
+n., acronym. "F\*ck Off And Die."
 
 **FOAD Letter**
 
-n. A letter from a company which says, \`\`We liked your resume, and had a real good time laughing at it, and we don't want to hire you now, but (chuckle) please (snort) try again (hee, hee) later. (Haw, haw, haw!)'' Usually received at the end of your senior year, and whenever you apply for a co-op or a summer job. Most RPI seniors receive five or six of them.
+n. A letter from a company which says, "We liked your resume, and had a real good time laughing at it, and we don't want to hire you now, but (chuckle) please (snort) try again (hee, hee) later. (Haw, haw, haw!)" Usually received at the end of your senior year, and whenever you apply for a co-op or a summer job. Most RPI seniors receive five or six of them.
 
 **Foo**
 
@@ -266,11 +266,11 @@ n., acronym. Keep it Simple, Stupid.
 
 **Kludge**
 
-n. Any alteration or assemblage which takes advantage of faulty rules or organization. --- v. To fix in a temporary way (note: long \`\`u'' as in \`\`nUke'').
+n. Any alteration or assemblage which takes advantage of faulty rules or organization. --- v. To fix in a temporary way (note: long "u" as in "nUke").
 
 **Knurd**
 
-n. One who studies intensively, but only for practical reasons, such as an exam tomorrow. Preferred to \`\`nerd'' due to it's nature of being reversible into another useful word.
+n. One who studies intensively, but only for practical reasons, such as an exam tomorrow. Preferred to "nerd" due to it's nature of being reversible into another useful word.
 
 **Lab Report**
 
@@ -294,7 +294,7 @@ n. (RPI) The RPI Players main hideout, the 15th Street Playhouse, as it is refer
 
 **Love Canal**
 
-n. The \`\`temporary'' pathway along the '86 Field, which turns into some kind of toxic sludge whenever Troy rains or snows (which is far too frequent). Don't slip and fall into it.
+n. The "temporary" pathway along the '86 Field, which turns into some kind of toxic sludge whenever Troy rains or snows (which is far too frequent). Don't slip and fall into it.
 
 **Metroland**
 
@@ -318,7 +318,7 @@ n. A variable word pertaining to any noun, object or thing.
 
 **MUNG**
 
-v., acronym. A recursive word, meaning \`\`MUNG Until No Good.''
+v., acronym. A recursive word, meaning "MUNG Until No Good."
 
 **Myron**
 
@@ -342,7 +342,7 @@ n. (RPI) Abbreviation for Niagara Mohawk, the Troy power company.
 
 **No Op**
 
-n. Someone or thing that does nothing useful. --- v. To waste time by \`\`slugging off.'' To ignore something.
+n. Someone or thing that does nothing useful. --- v. To waste time by "slugging off." To ignore something.
 
 **Nuke**
 
@@ -354,7 +354,7 @@ n. The device resembling a terminal in any RPI-provided kit-chen, it is used to 
 
 **Opus**
 
-n. The existential penguin in \`\`Bloom County,'' a comic strip that can only be found in _The Boston Globe_, and occasionally in _The Poly._
+n. The existential penguin in "Bloom County," a comic strip that can only be found in _The Boston Globe_, and occasionally in _The Poly._
 
 **Organic Waste Products**
 
@@ -370,11 +370,11 @@ v. The act of convincing your parents that the $15K a year spent on your lifesup
 
 **Party**
 
-n. A social gathering with a goal of mixed group interrelating, drinking, etc. --- v. To enjoy the company of others and not be involved in studying. --- adj. To be desirable to have at a party (e.g. \`\`He's quite a party guy'').
+n. A social gathering with a goal of mixed group interrelating, drinking, etc. --- v. To enjoy the company of others and not be involved in studying. --- adj. To be desirable to have at a party (e.g. "He's quite a party guy").
 
 **Pass-Punt**
 
-n. One of the options available to a Tute student. A class on Pass-Punt does not count against you if you fail or do poorly; it also does not help your GPA even if you do incredibly well. Officially called \`\`Pass-No Credit.''
+n. One of the options available to a Tute student. A class on Pass-Punt does not count against you if you fail or do poorly; it also does not help your GPA even if you do incredibly well. Officially called "Pass-No Credit."
 
 **Perf**
 
@@ -386,7 +386,7 @@ n. (RPI) The avant-garde actors' troupe on the RPI campus composed of mostly stu
 
 **Polemic**
 
-n. (RPI) The independent, student financed, somewhat-bi-weekly spoof of the Institute's newspaper, the _Polytechnic_. Otherwise known as \`\`Not the Poly.''
+n. (RPI) The independent, student financed, somewhat-bi-weekly spoof of the Institute's newspaper, the _Polytechnic_. Otherwise known as "Not the Poly."
 
 **Power Tool**
 
@@ -422,7 +422,7 @@ adj. To be diverse in nature.
 
 **RAHP**
 
-n., acronym. (RPI) Rensselaer Apartment Housing Project, is better known as the Alpha Phi Omega fraternity \`\`house.''
+n., acronym. (RPI) Rensselaer Apartment Housing Project, is better known as the Alpha Phi Omega fraternity "house."
 
 **Real Time**
 
@@ -438,7 +438,7 @@ n. The Known Universe.
 
 **Reality Check**
 
-n. The act of leaping up once to see if one will still fall Earthward under the influence of gravity. Also known as \`\`Gravity Check.''
+n. The act of leaping up once to see if one will still fall Earthward under the influence of gravity. Also known as "Gravity Check."
 
 **Recursive**
 
@@ -454,7 +454,7 @@ n. To gather a group of friends together in a car and get out of Troy.
 
 **Sagie**
 
-n. (RPI) A student of Russell Sage College, who is typified (by RPI men) as a slightly overweight \`\`MRS'' degree candidate.
+n. (RPI) A student of Russell Sage College, who is typified (by RPI men) as a slightly overweight "MRS" degree candidate.
 
 **Scalar**
 
@@ -466,7 +466,7 @@ v. To take repetitively until none is left.
 
 **Self Screw**
 
-n. (RPI) A particular mutation of RPI's regular curriculum in which students are given the responsibility of administering the Tute Screw to themselves. Sometimes called \`\`Self Abuse.''
+n. (RPI) A particular mutation of RPI's regular curriculum in which students are given the responsibility of administering the Tute Screw to themselves. Sometimes called "Self Abuse."
 
 **Sibyl**
 
@@ -502,11 +502,11 @@ n. Naval ROTC type.
 
 **\*.\***
 
-n. Anything and everything (pronounced \`\`star-dot-star'').
+n. Anything and everything (pronounced "star-dot-star").
 
 **Starting Salary**
 
-n. A buzzword prevalent around the end of the spring semes-ter, it is a common method of rating the \`\`value'' of one's diploma.
+n. A buzzword prevalent around the end of the spring semes-ter, it is a common method of rating the "value" of one's diploma.
 
 **Stu-Gov**
 
@@ -542,7 +542,7 @@ n. (RPI) One of many shorter versions of RPI's name, devised to help students wh
 
 **Tute Screw**
 
-n. (RPI) To quote the _Rensselaer Student Handbook_, \`\`A peculiar device ... whichever way you turn it, it goes in.''
+n. (RPI) To quote the _Rensselaer Student Handbook_, "A peculiar device ... whichever way you turn it, it goes in."
 
 **Twink**
 
@@ -558,11 +558,11 @@ n. A computer programmer who believes everything you tell him.
 
 **VCC**
 
-n. (RPI, pronounced \`\`Vee-See-See'') The Voorhees Computing Center, often confused with the Chapel and Cultural Center as the seat of religious power on campus.
+n. (RPI, pronounced "Vee-See-See") The Voorhees Computing Center, often confused with the Chapel and Cultural Center as the seat of religious power on campus.
 
 **Vector**
 
-n. (1.) In mathematics, a one dimensional matrix. (2.) Someone who is falling off a tall building. Derives from the last cry of the falling body, \`\`I'm a vector!''
+n. (1.) In mathematics, a one dimensional matrix. (2.) Someone who is falling off a tall building. Derives from the last cry of the falling body, "I'm a vector!"
 
 **Whoosh**
 
@@ -570,11 +570,11 @@ n. Any vehicle capable of traveling faster than walking.
 
 **WRPI**
 
-n. (RPI) The campus 10-kilowatt radio station that can be found 91.5 MHz on your FM radio dial, which specializes in not specializing in music. Pronounced \`\`Whirpee.''
+n. (RPI) The campus 10-kilowatt radio station that can be found 91.5 MHz on your FM radio dial, which specializes in not specializing in music. Pronounced "Whirpee."
 
 **XA**
 
-n. A new version of MTS that became operational in the Fall 84 semester. Translated, it means \`\`Extended Aggravation.''
+n. A new version of MTS that became operational in the Fall 84 semester. Translated, it means "Extended Aggravation."
 
 **Za**
 
