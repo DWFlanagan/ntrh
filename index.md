@@ -10,7 +10,7 @@ Written by Steve Staton, Tom White, and others
 
 18 September 1985
 
-Transcribed by Dave Flanagan, 2023
+Adapted by Dave Flanagan, 2023
 
 ## Introduction
 
