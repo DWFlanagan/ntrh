@@ -16,7 +16,7 @@
 title: Not the Rensselaer Handbook
 description: The classic handbook for RPI knurds
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://just-the-docs.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://dwflanagan.github.io/ntrh # the base hostname & protocol for your site, e.g. http://example.com
 repository: DWFlanagan/ntrh # for github-metadata
 
 permalink: pretty
