@@ -1,10 +1,8 @@
 ---
-title: History
+title: An Unofficial RPI History of RPI
 layout: home
 nav_order: 2
 ---
-
-# An Unofficial RPI History of RPI
 
 ## A Short History Course
 
