@@ -10,11 +10,11 @@ search_exclude: true
 
 ## Editor's note
 
-The "purity text" originally included in the section [Survival in the Tute](07-survival.md) has been moved here.
+_The "purity text" originally included in the section [Survival in the Tute](07-survival.md) has been moved here._
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/Purity_test), purity tests were among the earliest memes and popular on Usenet in the early 1980s, around the same time that the NtRH was originally written.
+_According to [Wikipedia](https://en.wikipedia.org/wiki/Purity_test), purity tests were among the earliest memes and popular on Usenet in the early 1980s, around the same time that the NtRH was originally written._
 
-_The content may contain language or viewpoints that may be offensive or insensitive by current-day standards_. The text is included here for historical reasons, but it is not necessary for understanding the NtRH.
+_The content may contain language or viewpoints that may be offensive or insensitive by current-day standards. The text is included here for historical reasons, but it is not necessary for understanding the NtRH._
 
 ## The Unabridged Purity Test
 
