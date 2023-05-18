@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Not the Rensselaer Handbook
 layout: home
 nav_order: 0
 ---
