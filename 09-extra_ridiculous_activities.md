@@ -60,11 +60,11 @@ The freshmen both failed out after one semester.
 
 The _Engineer_ is RPI's foremost publication on research and development at RPI. The articles within are usually of a fairly technical nature, and tend to display Rensselaer's research work as the most important work done on the campus. The issues tend to center on a general theme, and present articles written by graduate students and faculty. Lots of expensive ads from major research contractors can be found as filler, too.
 
-### [_The Transit_](https://web.archive.org/web/20160809181640/http://www.rpi.edu/dept/union/transit/public_html/)
+### [_The Transit_](http://transit.union.rpi.edu)
 
 \[ This section was not written. \]
 
-### [_The Rensselaer Handbook_](https://web.archive.org/web/20160809181640/http://www.rpi.edu/dept/student-life/www/)
+### [_The Rensselaer Handbook_](https://info.rpi.edu/dean-students/01/21/2022/rensselaer-handbook-student-rights-and-responsibilities)
 
 _The Rensselaer Handbook_ is the Administration's attempt to prepare incoming students for life at RPI. Primarily an adminstrative rulebook, the student handbook does have some useful sections on adult life for the incoming freshmen-types. Unfortunately, the information about life external to RPI is very lacking, when not utterly inaccurate.
 

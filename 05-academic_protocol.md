@@ -70,94 +70,94 @@ There is little that students can do to overcome the _C Vortex_, save for the J-
 
 ## Not the Grading System
 
-**A**
+### A
 
 fictional grade.
 
-**B**
+### B
 
 Dean's List minimum. Keeps the financial aid just out of reach for most students ...
 
-**C**
+### C
 
 Engineering average, otherwise known as the "C" Vortex. The typical grade of 70% of most students. Keeps you in through 8 semesters.
 
-**CD**
+### CD
 
 Calculator Died during final.
 
-**D**
+### D
 
 Passing. As the old adage says, "D equals P."
 
-**F**
+### F
 
 Foom. Your tuition money, that is.
 
-**FA**
+### FA
 
 Faulty Administrators. Your grade is missing, probably because you were missing from your class all semester, so they give you this grade instead of admitting that they lost the drop card.
 
-**FO**
+### FO
 
 Failed due to oversleeping on day of final (note: this isn't Final Overslept; it's short for Fool).
 
-**HP**
+### HP
 
 Hockey Player --- automatic passing grade given only to Management majors.
 
-**HV**
+### HV
 
 Retired to Happy Valley Country Club for semester.
 
-**I**
+### I
 
 I really tried to finish the project but ... but ... I just didn't have time because I had to study for the final...which I failed because I was trying to finish the project...oh please, please don't fail me, etc.
 
-**IP**
+### IP
 
 In Progress. Yes, we know you think you're still working on this course, but you better show us some results. Soon.
 
-**KD**
+### KD
 
 (For knurds only): got above a 4.000 average by correcting professors, memorizing the CRC Chemical Handbook, completing several 600-level courses in Freshman year, rewriting MTS, etc.
 
-**NA**
+### NA
 
 Never attended.
 
-**O**
+### O
 
 Failed due to oversleeping every class. (Only given for 8AM lectures).
 
-**P**
+### P
 
 Punted course.
 
-**S**
+### S
 
 Satisfactory. This isn't worth any points; it means that you put the course on Pass-Punt, and then you passed it; or that it wasn't worth any points to start with.
 
-**SC**
+### SC
 
 System Crash. Equivalent to F on CompSci courses.
 
-**TS**
+### TS
 
 Tute-Screwed --- when everything imaginable and then some goes wrong and you have a -15 average in many of your classes and your roommate did nothing but annoy you all semester and life in general sucked for four months. A frightfully common RPI dilemma.
 
-**U**
+### U
 
 Unsatisfactory. See \`P' and \`S'.
 
-**WD**
+### WD
 
 Walkman Died. Given only on computer projects. Sitting in front of computer terminals without any contact with reality has been proven harmful to your health by the Surgeon General (of Albania).
 
-**$**
+### $
 
 Grade delayed pending unpaid bills to Institute.
 
-**\***
+### \*
 
 We didn't know what to give you, we'll tell you next semester.

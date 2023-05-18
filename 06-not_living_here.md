@@ -14,14 +14,11 @@ It is in the best interests of the school that as much responsibility as possibl
 
 In the interests of enlightening you who have not had the chance to read _The Rensselaer Handbook_, we present a list of the responsibilities of the Dorm Resident as it is most often interpreted.
 
-### Responsibilities of Dorm Residents:
+### Responsibilities of Dorm Residents
 
 * Respect for other's property, except for stereos, liquor and sexual partners.
-    
 * Respect for and abidance by Institute rules, otherwise known as the "Knees Upon the Ground" clause.
-    
 * Undisturbed hours for study, sleep, sex and random behavior.
-    
 * Maintenance of the residence hall, and in particular, the Resident Assistant, one's door painting and most important, the porcelain urinals!
 
 ### Distribution of Housing

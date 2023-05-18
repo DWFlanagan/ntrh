@@ -40,7 +40,7 @@ The stairs all through the building are small and twisty. There is an elevator h
 
 ## Amos Eaton
 
-![](https://web.archive.org/web/20160809181640im_/http://deltosfleet.smugmug.com/Travel/RPI-2012/i-wBZ3JDH/0/S/DSC0159-S.jpg)
+![Amos Eaton](images/08-amos_eaton.jpg)
 
 The Amos Eaton building is one of the oldest buildings on campus. It has served as a library, and as a computer center; it currently serves as the home of most of the miscellaneous administrative services of the Tute, the Math and Computer Science departments, the ACM, and the Minicomputer Lab.
 
@@ -52,7 +52,7 @@ Anyway. The main reason that Amos Eaton is so well populated is that it has a ve
 
 ## Russell Sage Labs
 
-![](https://web.archive.org/web/20160809181640im_/http://deltosfleet.smugmug.com/Travel/RPI-2012/i-wXMBPWb/0/S/DSC0144-S.jpg)
+![Russell Sage Labs](08-russell_sage_labs.jpg)
 
 The Russell Sage Labs have just been rebuilt, because they were pretty much falling apart inside. Now, the inside is a mixture of Modern Hideous and Archaic Leftover, somewhat indiscriminately mixed together. If you have any artistic sense at all, you will probably be apalled at the mess called "interior design" in this building. One of the more hideous creations fills a certain amount of empty space on the fourth floor; it consists of an entire model house, including windows and doors.
 
