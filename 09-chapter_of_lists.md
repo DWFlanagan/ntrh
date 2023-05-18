@@ -63,7 +63,7 @@ While _NtRH_ doesn't advocate these, if you went to every lecture and recitation
 
 ### The Plastic Blocks on Rope
 
-![Plastic Blocks on Rope](images/10-plastic_blocks.jpg)
+![Plastic Blocks on Rope](../images/10-plastic_blocks.jpg)
 
 In the 2nd and 3rd floors of the JEC, this winner takes the biscuit. A few years ago, it was joined by an old clothes washer on a cable.
 

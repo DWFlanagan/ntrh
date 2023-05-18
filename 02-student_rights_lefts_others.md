@@ -12,7 +12,7 @@ nav_order: 3
 
 ## Security
 
-![Campus Security](images/03-campus_security.jpg)
+![Campus Security](../images/03-campus_security.jpg)
 
 One of the least understood departments in the Administration is that of Campus Security. Located in the Visitor Information Center, Security holds a location central to most of the campus.
 

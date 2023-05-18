@@ -50,7 +50,7 @@ The actual groundbreaking was to be initiated by Margaret Jonsson; however, she 
 
 ### Alan Voorhees
 
-![Voorhees Computer Center](images/02-vorhees-computer-center.jpg)
+![Voorhees Computer Center](../images/02-vorhees-computer-center.jpg)
 
 The Chapel became the school's second computer center, with the donations of Alan Voorhees and the insistence of RPI's students. In 1977 a study was completed detailing options for a new computer center, to replace the Amos Eaton facility and house the 'brand-new' IBM 3033 (see Myron in [Tute Speak](10-tute_speak.md)). The study was to choose among three plans. The first two proposals sought to build the center on top of or below the Armory Parking Lot. The third plan suggested renovating the Seminary Chapel, which was empty as of the opening of the Folsom Library. The Chapel was not favored by either the architecture group doing the study, nor by the Trustees, but a student referendum overwhelmingly chose the old church building as the site, remarking on the aesthetic beauty of the Chapel versus yet another "high-tech" edifice. According to students who were present at the time these decisions were being made, the student referendum did not really amount to a hill of beans; the item which tipped the scales in the favour of the Chapel as a computer center was that the estimated cost of the Armory computer center nearly doubled between the initial cost estimates and the final decision. With Alan Voorhees' $3.4 million gift (the largest single donation in RPI's history) the Voorhees Computing Center went under construction. The center opened on 9 Oct 1979.
 
@@ -80,7 +80,7 @@ Contrary to its name, Walker Lab is the only building on campus which is absolut
 
 ### West Hall
 
-![West Hall](images/02-west_hall.jpg)
+![West Hall](../images/02-west_hall.jpg)
 
 West Hall is built on a section of the hill which is, in fact, unstable. This was discovered many years ago, when Civil Engineers actually had lab classes in the use of the transit and other surveying instruments. Every two years, a class of juniors and seniors would go out and survey the campus. One year, a Civ. E. professor downgraded an entire section because they had measured West Hall as being six inches further down the hill than it had been two years before. The section protested, claiming that their measurements were accurate, and insisting that the professor check them for himself. The professor did this, and discovered that, in fact, West Hall was seven inches further down the hill than it had been two years earlier. Going back over earlier surveys, he also found that this represented a trend.
 
@@ -90,7 +90,7 @@ There is an engineering solution to every problem, and this one was no exception
 
 ### The Folsom Library
 
-![Folsom Library](images/02-folsom_library.jpg)
+![Folsom Library](../images/02-folsom_library.jpg)
 
 There were two blunders made when the Folsom Library was built. First, the building was originally designed with the floors bowed upwards, with the intent that the weight of the books would bow the floors back to level, and slightly stress the walls. The idea was that this would make the building as a whole more durable. Of course the construction crew didn't understand this concept, and the building was built with level floors, which are now bowed slightly downward with the weight of the books.
 
@@ -98,7 +98,7 @@ Next, another architect calculated the necessary capacity for the foundation wit
 
 ### The Communications Center
 
-![Darren Communications Center](images/02-darren_communication_center.jpg)
+![Darren Communications Center](../images/02-darren_communication_center.jpg)
 
 The Communications Center was built on two different land masses. The 15th Street end is solidly on bed rock, and is not about to go anywhere; the end nearest the JEC is resting on an old river bed, and is slowly sinking into the mud. This is not instantly apparent, unless one looks in the tunnel between the JEC and the CC (which is available to anybody who knows how to get down to the first floor of either building). In this tunnel, there is an expansion joint, which was level when the tunnel was built. Needless to say, it is no longer level.
 

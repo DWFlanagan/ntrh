@@ -10,7 +10,7 @@ Those of you who have actually attended classes at RPI, whoever you might be, ha
 
 ## West Hall
 
-![West Hall](images/02-west_hall.jpg)
+![West Hall](../images/02-west_hall.jpg)
 
 West Hall consists of two pieces, the old building and the new wing. Both of these have been heavily modified over the years. There are two entrances to the building. The one which looks like a loading dock off the parking lot actually is a loading dock; it enters the new wing on the (you guessed it) third floor. The entrance closer to the Pittsburgh building ends up at a point midway between the second and third floors of the old building.
 
@@ -42,7 +42,7 @@ The stairs all through the building are small and twisty. There is an elevator h
 
 ## Amos Eaton
 
-![Amos Eaton](images/08-amos_eaton.jpg)
+![Amos Eaton](../images/08-amos_eaton.jpg)
 
 The Amos Eaton building is one of the oldest buildings on campus. It has served as a library, and as a computer center; it currently serves as the home of most of the miscellaneous administrative services of the Tute, the Math and Computer Science departments, the ACM, and the Minicomputer Lab.
 
@@ -54,7 +54,7 @@ Anyway. The main reason that Amos Eaton is so well populated is that it has a ve
 
 ## Russell Sage Labs
 
-![Russell Sage Labs](08-russell_sage_labs.jpg)
+![Russell Sage Labs](../images/08-russell_sage_labs.jpg)
 
 The Russell Sage Labs have just been rebuilt, because they were pretty much falling apart inside. Now, the inside is a mixture of Modern Hideous and Archaic Leftover, somewhat indiscriminately mixed together. If you have any artistic sense at all, you will probably be appalled at the mess called "interior design" in this building. One of the more hideous creations fills a certain amount of empty space on the fourth floor; it consists of an entire model house, including windows and doors.
 
@@ -64,7 +64,7 @@ The lecture hall at the end of the hall to your right as you enter the building 
 
 ## The Greene Building
 
-![Greene Building](images/08-greene_building.jpg)
+![Greene Building](../images/08-greene_building.jpg)
 
 Although the Greene building is primarily an architect's hangout, there are a few classrooms here which the average engineer can occasionally get into. These are generally used for engineering classes and the occasional humanity or social science. The method used to number the doors of the Greene Building seems to bear no relation to life in the universe as we know it. As a good first approximation, find the floor the room is supposed to be on, and then turn right. Most of the classrooms seem to be to the right of the main entrance, which is midway between the first and second floors.
 
@@ -72,7 +72,7 @@ Again, the main thing which you will find here are desks made of hyperplastic. T
 
 ### The Troy Building
 
-![Troy Building](images/08-troy_building.jpg)
+![Troy Building](../images/08-troy_building.jpg)
 
 Conditions in the Troy building vary widely from room to room. In general, rooms on the first floor are designed with your comfort in mind, where rooms on the second floor are designed to keep you awake in class, and those on the third floor are designed to give the class a bit of comic relief when you fall off your stool and onto the floor. Let us look at a typical room on each floor.
 
@@ -86,12 +86,12 @@ One important fact to note about the Troy Building: like the Carnegie Building, 
 
 ### The Jonsson Engineering Center
 
-![Jonsson Engineering Center](images/08-jonsson_engineering_center.jpg)  
+![Jonsson Engineering Center](../images/08-jonsson_engineering_center.jpg)  
 \[ This section was not written. \]
 
 ### The Ricketts Building
 
-![Ricketts Building](images/08-ricketts_building.jpg)
+![Ricketts Building](../images/08-ricketts_building.jpg)
 
 The Ricketts building is one of the few buildings on campus which could be called split-level. There are no real floors as such; instead, there are half-floors. For most of the building, the area to the left of the central stairwell, and to the right, are at different levels. The front door opens on the so-called first floor; however, this seems to bear very little relationship to the room numbering scheme. The only way to find your way to your classroom is by trial and error.
 
