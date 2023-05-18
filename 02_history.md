@@ -1,3 +1,9 @@
+---
+title: History
+layout: home
+nav_order: 2
+---
+
 # An Unofficial RPI History of RPI
 
 ## A Short History Course

@@ -1,6 +1,7 @@
 ---
 title: Introduction
 layout: home
+nav_order: 1
 ---
 
 Not the Rensselaer Handbook is intended to be a source of invaluable knowledge concerning the activities of students at RPI. It is written to be used as a reference guide to not only surviving at RPI, but for surviving with style. You could almost call Not the Handbook the ``Passer-by's Guide to Rensselaer.'' However, we won't. Not the Handbook is not intended to be used as a collector's item, a scholastic aid, or a measure of the literary skill of the students involved, but rather as a tool to aid current, past and future students of RPI, in their attempts to live at and work with the school.
