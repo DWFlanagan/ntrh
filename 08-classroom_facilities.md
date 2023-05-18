@@ -4,6 +4,8 @@ layout: home
 nav_order: 8
 ---
 
+# Classroom Facilities
+
 Those of you who have actually attended classes at RPI, whoever you might be, have actually seen the inside of several of the more famous buildings mentioned earlier. For the benefit of those of you who never made it to class, or who are eagerly awaiting your first class at RPI, here is a description of most of the classroom facilities available to you as students. We will start at the bottom of the campus, and work our way up to the start of the Ho Chi Minh Trail, as you will probably do after your first class in West Hall.
 
 ## West Hall

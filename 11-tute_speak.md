@@ -4,6 +4,8 @@ layout: home
 nav_order: 11
 ---
 
+# Tute Speak
+
 What part of the student's life is not influenced by how that student communicates? Even the Institute has recognized the need for its student body to be more literate. Therefore, it is to this end that the following glossary of the language that is spoken at RPI is provided to those holding this book.
 
 One will note, however, that the words contained herein are not spoken anywhere else, save for the bowels of IBM or at a social gathering at MIT. Still, it is essential to be able to understand your fellow man at lunch when he tells you that his HP-41CX has crashed and that his last APL project has de-rezed, in the hopes that you will offer some sympathy. Be warned that many of the words contained are not of a delicate nature, and that if you are offended by phrases such as "Wankel Rotary Engine," you shouldn't be reading this anyway.

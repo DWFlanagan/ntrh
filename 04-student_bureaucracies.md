@@ -4,6 +4,8 @@ layout: home
 nav_order: 4
 ---
 
+# Student Bureaucracies
+
 This chapter will touch on the organizations, or offices in the lingo of the Administration, that concern student activities outside of the classroom.
 
 ## Office of the Dean of Students

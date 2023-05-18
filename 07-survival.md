@@ -4,6 +4,8 @@ layout: home
 nav_order: 7
 ---
 
+# Survival at the Tute
+
 ## Birth and Death Control
 
 At RPI, the problems of life and death are very central to every student's mental condition. He or she has to deal with the constant fear of either creating life that is undesired, by human conception (the act of sex) or by incubating a Daka meal next to the heater coils in his room, or on the other hand, of having to end life, whether it be his own, or again, that of his meal. Of course the Institute, in its never-ending effort to take all the student's personal problems into its own hands, has much to do with these terribly _vital_ issues.
@@ -28,7 +30,7 @@ The syndrome is known as "puppy-dog-ism," because of all the male puppy dogs wag
 
 Another more difficult problem is unwanted pregnancies. These are also a spinoff of social immaturity, resulting from not being aware of birth control or just taking risks. Pregnancies among freshmen women are rather high at RPI, peaking around 10 percent of the freshman women within the first two months of their freshman year.
 
-[purity test](99-purity_test.md)
+[The unabridged purity test](99-purity_test)
 
 ## Death Control at Rensselaer
 

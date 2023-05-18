@@ -4,6 +4,8 @@ layout: home
 nav_order: 2
 ---
 
+# An Unofficial RPI History of RPI
+
 ## A Short History Course
 
 For a school a mere one hundred and sixty years old, RPI is soundly buried in historical events that seem uniquely peculiar to an engineering school. Those oddities obscured by time, error, or deliberate cover-up were the events sought after by Not the Handbook's staff of researchers. We wish to thank the Rensselaer Library's Archives Department for their assistance in our efforts. Their collection is, to no one's surprise, second to none on this subject.

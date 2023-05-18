@@ -4,6 +4,8 @@ layout: home
 nav_order: 5
 ---
 
+# Academic Protocol
+
 ## Everything you wanted to know about the Administration ... but were afraid to ask
 
 It is a fact that every RPI student, in his or her academic career, will have to travel several times up and down the dangerous steps that lead to the entrance of "The Pitts." Learning how to deal with this bureaucratic ordeal can be one of the most important steps one can take towards achieving the penultimate goal, that is, getting a diploma. This chapter will deal with the problems and realities of registration, attending classes and exams, recovering from receiving your report card, and how to keep on one's academic feet. Admittedly, not an easy task.

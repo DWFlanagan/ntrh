@@ -4,6 +4,8 @@ layout: home
 nav_order: 3
 ---
 
+# Student Rights, Lefts, and Others
+
 ## Not the Student Bill of Rights
 
 (This page inadvertantly left blank)  

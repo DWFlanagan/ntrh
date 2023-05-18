@@ -4,6 +4,8 @@ layout: home
 nav_order: 6
 ---
 
+# Not Living Here
+
 ## RPI Housing
 
 RPI provides all kinds of "housing" for all kinds of students. Apparently, in the interests of the lowest common denominator, this housing takes the form of civilian dwellings not unlike those of Berlin or Paris during World War II. RPI does not discriminate housing to any student, save for sex, class, and your lottery number, and does its best to maintain a standard in ill repair, disinterest and in general, a lack of capital investment. Be especially wary if your dorm room is on "future development" land.

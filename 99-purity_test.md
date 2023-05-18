@@ -1,8 +1,12 @@
 ---
 title: Purity Test
 layout: home
-nav_order: 99
+
+nav_exclude: true
+search_exclude: true
 ---
+
+# Purity Test
 
 ## Editor's note
 

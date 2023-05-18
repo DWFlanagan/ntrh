@@ -4,6 +4,8 @@ layout: home
 nav_order: 10
 ---
 
+# The Chapter of Lists
+
 How could this silliness be summarized better than by a chapter devoted to the most useful form of data organization, the list? These pages that follow contain the most obscure yet useful information available on RPI in a compact form that any non-Computer Science major can deal with (CompSci-types, just think in terms of LISP and things will work out).
 
 ## What to Take to an Exam

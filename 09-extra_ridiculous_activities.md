@@ -4,6 +4,8 @@ layout: home
 nav_order: 9
 ---
 
+# Extra-Ridiculous Activities
+
 Why are we calling extra-curricular activities at RPI ridiculous? Because in general, they do nothing but hurt one's academic standing! Their only purpose in life is to take the student's mind off of the incredible work load he has, by giving him even more work in the form of a club! Only at Rensselaer!
 
 ## Student Government
